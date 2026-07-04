@@ -21,7 +21,7 @@ _recent: list[dict] = []   # 50 dernières détections
 MAX_RECENT = 50
 
 
-def record(verdict: str, fraud_type: str, sms_preview: str, confidence: float):
+def record(verdict: str, fraud_type: str, sms_length: int, confidence: float):
     with _lock:
         _counters["total"] += 1
         if verdict in _counters:
@@ -31,11 +31,11 @@ def record(verdict: str, fraud_type: str, sms_preview: str, confidence: float):
             _fraud_types[fraud_type] += 1
 
         entry = {
-            "time": datetime.utcnow().strftime("%H:%M:%S"),
-            "verdict": verdict,
+            "time":       datetime.utcnow().strftime("%H:%M:%S"),
+            "verdict":    verdict,
             "fraud_type": fraud_type,
             "confidence": round(confidence * 100, 1),
-            "preview": sms_preview[:60] + ("..." if len(sms_preview) > 60 else ""),
+            "sms_length": sms_length,   # longueur uniquement — pas le contenu
         }
         _recent.insert(0, entry)
         if len(_recent) > MAX_RECENT:

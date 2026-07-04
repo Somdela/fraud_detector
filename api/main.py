@@ -7,12 +7,15 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 
+from fastapi import Depends
+
 from api.schemas import (
     SMSRequest, SMSResponse, HealthResponse,
     Verdict, FraudType, CommunicationInfo,
 )
 from api.predictor import FraudPredictor
 from api import history, stats
+from api.auth import require_api_key
 
 VERSION = "1.0.0"
 predictor: FraudPredictor | None = None
@@ -59,13 +62,13 @@ def root():
 
 
 @app.get("/dashboard", response_class=HTMLResponse, tags=["Dashboard"])
-def dashboard():
-    """Tableau de bord de surveillance en temps réel."""
+def dashboard(api_key: str = Depends(require_api_key)):
+    """Tableau de bord de surveillance en temps réel (authentification requise)."""
     return HTMLResponse(content=DASHBOARD_HTML.read_text(encoding="utf-8"))
 
 
 @app.get("/stats", tags=["Dashboard"])
-def get_stats():
+def get_stats(api_key: str = Depends(require_api_key)):
     """Statistiques pour le tableau de bord (rafraîchies toutes les 3s)."""
     summary = stats.get_summary()
     db_stats = history.get_dashboard_stats()
@@ -89,7 +92,7 @@ def health_check():
 
 
 @app.post("/analyze", response_model=SMSResponse, tags=["Analyse"])
-def analyze(request: SMSRequest):
+def analyze(request: SMSRequest, api_key: str = Depends(require_api_key)):
     """
     Analyse un SMS et retourne un verdict.
 
@@ -118,8 +121,8 @@ def analyze(request: SMSRequest):
 
     elapsed_ms = (time.perf_counter() - t0) * 1000
 
-    # Enregistre pour le dashboard
-    stats.record(verdict, fraud_type, request.sms, confidence)
+    # Enregistre pour le dashboard — contenu du SMS jamais stocké
+    stats.record(verdict, fraud_type, len(request.sms), confidence)
 
     return SMSResponse(
         verdict=Verdict(verdict),

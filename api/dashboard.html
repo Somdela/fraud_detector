@@ -100,7 +100,7 @@
         <th>Verdict</th>
         <th>Type</th>
         <th>Confiance</th>
-        <th>Aperçu du SMS</th>
+        <th>Longueur</th>
       </tr>
     </thead>
     <tbody id="recent-body">
@@ -150,9 +150,11 @@ function badgeHtml(verdict) {
   return `<span class="badge badge-${verdict}">${verdict.replace('_',' ')}</span>`;
 }
 
+const API_KEY = new URLSearchParams(window.location.search).get('key') || '';
+
 async function refresh() {
   try {
-    const r = await fetch('/stats');
+    const r = await fetch('/stats', { headers: { 'X-API-Key': API_KEY } });
     const d = await r.json();
 
     document.getElementById('total').textContent     = d.total_analyzed;
@@ -184,7 +186,7 @@ async function refresh() {
           <td>${badgeHtml(e.verdict)}</td>
           <td style="color:#94a3b8">${FRAUD_TYPE_LABELS[e.fraud_type] || e.fraud_type}</td>
           <td style="color:#94a3b8">${e.confidence}%</td>
-          <td style="color:#cbd5e1">${e.preview}</td>
+          <td style="color:#64748b">${e.sms_length} car.</td>
         </tr>`).join('');
     }
   } catch(e) { console.error(e); }
