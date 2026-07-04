@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SMS Fraud Detector — Tableau de bord</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; min-height: 100vh; }
+
+  header {
+    background: #1e293b;
+    padding: 16px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #334155;
+  }
+  header h1 { font-size: 1.2rem; font-weight: 600; color: #f8fafc; }
+  header span { font-size: 0.8rem; color: #64748b; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: #22c55e; display: inline-block; margin-right: 6px; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; padding: 24px 32px 0; }
+  .card { background: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; }
+  .card .label { font-size: 0.75rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+  .card .value { font-size: 2rem; font-weight: 700; }
+  .card .sub   { font-size: 0.8rem; color: #64748b; margin-top: 4px; }
+  .red    { color: #ef4444; }
+  .orange { color: #f97316; }
+  .yellow { color: #eab308; }
+  .green  { color: #22c55e; }
+
+  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; padding: 16px 32px; }
+  .chart-card { background: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; }
+  .chart-card h3 { font-size: 0.85rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 16px; }
+
+  .recent { margin: 0 32px 32px; background: #1e293b; border-radius: 12px; border: 1px solid #334155; }
+  .recent h3 { font-size: 0.85rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; padding: 16px 20px; border-bottom: 1px solid #334155; }
+  table { width: 100%; border-collapse: collapse; }
+  th { text-align: left; padding: 10px 20px; font-size: 0.75rem; color: #64748b; font-weight: 500; }
+  td { padding: 10px 20px; font-size: 0.82rem; border-top: 1px solid #1e293b; }
+  tr:hover td { background: #0f172a; }
+
+  .badge { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: 0.72rem; font-weight: 600; }
+  .badge-fraud          { background: #7f1d1d; color: #fca5a5; }
+  .badge-probable_fraud { background: #7c2d12; color: #fdba74; }
+  .badge-uncertain      { background: #713f12; color: #fde68a; }
+  .badge-legitimate     { background: #14532d; color: #86efac; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>SMS Fraud Detector &mdash; Burkina Faso</h1>
+  <span><span class="dot"></span>En ligne &bull; Mise à jour toutes les 3s</span>
+</header>
+
+<div class="grid">
+  <div class="card">
+    <div class="label">SMS analysés</div>
+    <div class="value" id="total">—</div>
+    <div class="sub">depuis le démarrage</div>
+  </div>
+  <div class="card">
+    <div class="label">Bloqués</div>
+    <div class="value red" id="blocked">—</div>
+    <div class="sub" id="block-rate">taux de blocage</div>
+  </div>
+  <div class="card">
+    <div class="label">Incertains</div>
+    <div class="value yellow" id="uncertain">—</div>
+    <div class="sub">vérification manuelle</div>
+  </div>
+  <div class="card">
+    <div class="label">Livrés</div>
+    <div class="value green" id="legitimate">—</div>
+    <div class="sub">SMS légitimes</div>
+  </div>
+</div>
+
+<div class="charts">
+  <div class="chart-card">
+    <h3>Répartition des verdicts</h3>
+    <canvas id="verdictChart" height="220"></canvas>
+  </div>
+  <div class="chart-card">
+    <h3>Types de fraude détectés</h3>
+    <canvas id="typeChart" height="220"></canvas>
+  </div>
+</div>
+
+<div class="recent">
+  <h3>Dernières détections</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Heure</th>
+        <th>Verdict</th>
+        <th>Type</th>
+        <th>Confiance</th>
+        <th>Aperçu du SMS</th>
+      </tr>
+    </thead>
+    <tbody id="recent-body">
+      <tr><td colspan="5" style="color:#64748b;text-align:center;padding:24px">Aucune analyse pour l'instant</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+const FRAUD_TYPE_LABELS = {
+  lottery_scam:   'Arnaque loterie',
+  error_transfer: 'Faux transfert',
+  fake_operator:  'Faux opérateur',
+  pin_request:    'Vol de PIN',
+  fake_promotion: 'Fausse promo',
+  unknown:        'Inconnu',
+};
+
+const verdictCtx = document.getElementById('verdictChart').getContext('2d');
+const typeCtx    = document.getElementById('typeChart').getContext('2d');
+
+const verdictChart = new Chart(verdictCtx, {
+  type: 'doughnut',
+  data: {
+    labels: ['Fraude', 'Probable fraude', 'Incertain', 'Légitime'],
+    datasets: [{ data: [0,0,0,0], backgroundColor: ['#ef4444','#f97316','#eab308','#22c55e'], borderWidth: 0 }]
+  },
+  options: { plugins: { legend: { labels: { color: '#94a3b8', font: { size: 12 } } } }, cutout: '65%' }
+});
+
+const typeChart = new Chart(typeCtx, {
+  type: 'bar',
+  data: {
+    labels: [],
+    datasets: [{ data: [], backgroundColor: '#ef4444', borderRadius: 6 }]
+  },
+  options: {
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { ticks: { color: '#94a3b8' }, grid: { color: '#1e293b' } },
+      y: { ticks: { color: '#94a3b8', stepSize: 1 }, grid: { color: '#334155' } }
+    }
+  }
+});
+
+function badgeHtml(verdict) {
+  return `<span class="badge badge-${verdict}">${verdict.replace('_',' ')}</span>`;
+}
+
+async function refresh() {
+  try {
+    const r = await fetch('/stats');
+    const d = await r.json();
+
+    document.getElementById('total').textContent     = d.total_analyzed;
+    document.getElementById('blocked').textContent   = d.blocked;
+    document.getElementById('uncertain').textContent = d.uncertain;
+    document.getElementById('legitimate').textContent= d.legitimate;
+    document.getElementById('block-rate').textContent= `${d.block_rate}% de blocage`;
+
+    // Donut
+    verdictChart.data.datasets[0].data = [
+      d.fraud_types_raw?.fraud          || 0,
+      d.fraud_types_raw?.probable_fraud || 0,
+      d.uncertain,
+      d.legitimate,
+    ];
+    verdictChart.update();
+
+    // Bar
+    const types  = Object.entries(d.fraud_types);
+    typeChart.data.labels   = types.map(([k]) => FRAUD_TYPE_LABELS[k] || k);
+    typeChart.data.datasets[0].data = types.map(([,v]) => v);
+    typeChart.update();
+
+    // Recent table
+    if (d.recent && d.recent.length > 0) {
+      document.getElementById('recent-body').innerHTML = d.recent.map(e => `
+        <tr>
+          <td style="color:#64748b">${e.time}</td>
+          <td>${badgeHtml(e.verdict)}</td>
+          <td style="color:#94a3b8">${FRAUD_TYPE_LABELS[e.fraud_type] || e.fraud_type}</td>
+          <td style="color:#94a3b8">${e.confidence}%</td>
+          <td style="color:#cbd5e1">${e.preview}</td>
+        </tr>`).join('');
+    }
+  } catch(e) { console.error(e); }
+}
+
+refresh();
+setInterval(refresh, 3000);
+</script>
+</body>
+</html>

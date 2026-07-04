@@ -1,0 +1,1401 @@
+text,label,fraud_type
+"[PROMOTION] Votre numéro a remporté 5000 FCFA! Pour recevoir, envoyez 500 FCFA de frais au +22671733870.",1,lottery_scam
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 10000 FCFA! Contactez notre agent au +22679567220 dans les 24h.,1,lottery_scam
+Moov Burkina vous informe que vous avez gagné 500 FCFA lors de notre loterie. Appelez le +22669160254 pour réclamer.,1,lottery_scam
+Paiement de 200000 FCFA effectue chez SUPERMARCHE Score. Solde: 24952 FCFA. Ref: BF766675282.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22679233534 immédiatement pour bloquer.,1,fake_operator
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22677155846.,1,pin_request
+"Cher client, votre numéro figure parmi les 3 gagnants du jour. Prix: 200000 FCFA. Appelez +22677985331.",1,lottery_scam
+MOOV MONEY: Vous avez recu 200000 FCFA de Issaka. Votre solde est maintenant de 247842 FCFA. ID: BF869469831.,0,legitimate
+Vous avez gagné un prix de 200000 FCFA. Envoyez 500 FCFA pour les frais d'activation au +22661516869.,1,lottery_scam
+Orange Money: Votre virement vers Adama du 27/12/2026 a ete confirme par le beneficiaire.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 50000 FCFA. Appelez le +22676232315 MAINTENANT.,1,lottery_scam
+Votre solde Orange Money est de 54582 FCFA au 24/02/2026 a 11:58.,0,legitimate
+Votre solde Orange Money est de 10555 FCFA au 14/02/2026 a 16:20.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 1000 FCFA. Appelez le +22679553939 MAINTENANT.,1,lottery_scam
+MOOV MONEY fête ses 19 ans! Recevez 1000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22666461249.,1,fake_promotion
+Votre demande a ete traitee. Contactez le +22660575301 pour confirmation.,1,ambiguous_fraud
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Paiement de 25000 FCFA effectue chez BOUTIQUE Wend-Yam. Solde: 27630 FCFA. Ref: BF996869990.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 2000 FCFA sur votre compte. Merci de retourner l'argent au +22679429196.",1,error_transfer
+Orange Money: Solde 83649 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Votre demande a ete traitee. Contactez le +22676571023 pour confirmation.,1,ambiguous_fraud
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 5000 FCFA. Appelez maintenant le +22663760356.,1,lottery_scam
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22671806357 immédiatement pour bloquer.,1,fake_operator
+Vérification requise. Envoyez votre code PIN Mobile Money au +22671302472 pour continuer.,1,pin_request
+Votre demande a ete traitee. Contactez le +22663694764 pour confirmation.,1,ambiguous_fraud
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 11085 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Votre transfert de 500 FCFA a +22664990691 a ete effectue avec succes. Solde restant: 42321 FCFA.,0,legitimate
+MOOV MONEY - Consultation solde: 199021 FCFA disponibles sur votre compte.,0,legitimate
+Transaction recue: +2000 FCFA de Boubacar (+22670334903). Solde actuel: 36898 FCFA.,0,legitimate
+Transfert de 5000 FCFA a Yacouba (+22670488241) effectue. Solde: 45540 FCFA. Ref: BF973788925.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22669816318 pour valider votre compte.,1,pin_request
+Retrait de 10000 FCFA effectue. Solde: 32951 FCFA. Agent: Hamidou. Ref: BF283641115.,0,legitimate
+ORANGE MONEY: Achat de 10000 FCFA chez PHARMACIE du Peuple confirme. Nouveau solde: 45691 FCFA.,0,legitimate
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 12327 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22672563187.",1,pin_request
+ORANGE MONEY: Retrait de 10000 FCFA confirme. Nouveau solde: 28067 FCFA. Ref: BF934168821.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22671651273 pour confirmer votre identité.,1,fake_operator
+Transaction marchande: -10000 FCFA (BOULANGERIE Moderne). Solde restant: 23119 FCFA.,0,legitimate
+Félicitations! Vous avez été sélectionné(e) et avez gagné 10000 FCFA. Appelez le +22663908010 pour réclamer votre prix.,1,lottery_scam
+ORANGE MONEY: Achat de 1000 FCFA chez LIBRAIRIE Jeunesse confirme. Nouveau solde: 30446 FCFA.,0,legitimate
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22665851470 d'urgence.,1,fake_operator
+ORANGE MONEY: Retrait de 1000 FCFA confirme. Nouveau solde: 42407 FCFA. Ref: BF767652370.,0,legitimate
+PROMO ORANGE: Les 76 premiers clients reçoivent 10000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22661639292.,1,fake_promotion
+ORANGE MONEY: Achat de 50000 FCFA chez TOTAL Ouagadougou confirme. Nouveau solde: 15994 FCFA.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 200000 FCFA sur votre compte. Merci de retourner l'argent au +22666538967.",1,error_transfer
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22676943430 avant minuit pour éviter la suspension.,1,fake_operator
+Investissement garanti! Envoyez 2000 FCFA au +22661274418 et recevez 200000 FCFA dans les 2 heures.,1,fake_promotion
+"Excusez-moi, j'ai fait une erreur de transfert de 5000 FCFA sur votre compte. Merci de retourner l'argent au +22664396020.",1,error_transfer
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22667566532 et gagnez 2000 FCFA immédiatement!,1,fake_promotion
+Orange Money: Votre virement vers Bintou du 21/06/2026 a ete confirme par le beneficiaire.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22661841870 pour confirmer votre identité.,1,fake_operator
+Vous avez gagné un prix de 50000 FCFA. Envoyez 2000 FCFA pour les frais d'activation au +22666336001.,1,lottery_scam
+Transfert de 5000 FCFA a Mariam (+22663953370) effectue. Solde: 49637 FCFA. Ref: BF667504169.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22669739270 pour confirmer votre identité.,1,fake_operator
+"Bonjour, votre demande de service est approuvee. Contactez le +22674531709.",1,ambiguous_fraud
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22676792905 pour confirmer votre identité.,1,fake_operator
+MOOV MONEY fête ses 14 ans! Recevez 10000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22676550770.,1,fake_promotion
+Votre dossier est en attente. Appelez le +22676315651 pour finaliser.,1,ambiguous_fraud
+MOOV MONEY - Consultation solde: 180347 FCFA disponibles sur votre compte.,0,legitimate
+Votre demande a ete traitee. Contactez le +22672250494 pour confirmation.,1,ambiguous_fraud
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22670901368 immédiatement pour bloquer.,1,fake_operator
+Votre transfert de 1000 FCFA a +22666594797 a ete effectue avec succes. Solde restant: 16191 FCFA.,0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 2000 FCFA. Pouvez-vous me renvoyer cet argent au +22674307639? Urgent.",1,error_transfer
+MOOV MONEY fête ses 8 ans! Recevez 500 FCFA. Frais d'activation: 500 FCFA à envoyer au +22679347879.,1,fake_promotion
+Orange Money: Solde 31423 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Paiement de 50000 FCFA effectue chez BOUTIQUE Wend-Yam. Solde: 5563 FCFA. Ref: BF248262160.,0,legitimate
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 7356 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"Cher client, votre numéro figure parmi les 4 gagnants du jour. Prix: 50000 FCFA. Appelez +22665198685.",1,lottery_scam
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22674402020.",1,ambiguous_fraud
+Vous avez reçu 10000 FCFA de Mariam. Nouveau solde: 34275 FCFA. Ref: BF859417815. Le 14/05/2026 a 15:05.,0,legitimate
+Solde disponible: 195061 FCFA. Derniere operation le 10/08/2026. Composez *144# pour plus d'options.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22677359414.,1,ambiguous_fraud
+Orange Money: Solde 72340 FCFA. Pour toute operation composez le *144#.,0,legitimate
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+Félicitations! Vous avez été sélectionné(e) et avez gagné 1000 FCFA. Appelez le +22672197758 pour réclamer votre prix.,1,lottery_scam
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22674229988 pour sécuriser votre argent.,1,fake_operator
+Paiement de 50000 FCFA effectue chez SUPERMARCHE Score. Solde: 16794 FCFA. Ref: BF190244626.,0,legitimate
+MOOV MONEY: Vous avez recu 25000 FCFA de Hamidou. Votre solde est maintenant de 32947 FCFA. ID: BF547047480.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22669668784 pour le débloquer.,1,fake_operator
+Paiement de 50000 FCFA effectue chez LIBRAIRIE Jeunesse. Solde: 13126 FCFA. Ref: BF989648687.,0,legitimate
+MOOV MONEY: Vous avez recu 2000 FCFA de Aminata. Votre solde est maintenant de 24216 FCFA. ID: BF950421579.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 500 FCFA au +22661710434 et recevez 2000 FCFA sur votre compte.,1,fake_promotion
+MOOV MONEY: Envoi de 5000 FCFA a Marcelline confirme. Solde: 12191 FCFA. Ref: BF207395318.,0,legitimate
+ORANGE MONEY: Transfert reçu de 500 FCFA. Expediteur: Adama. Solde: 3838 FCFA. Ref: BF343164953.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22677624112.",1,pin_request
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22663372427 immédiatement pour bloquer.,1,fake_operator
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22671995735 pour valider votre compte.,1,pin_request
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 3805 FCFA.,0,legitimate
+MOOV MONEY: Vous avez retire 25000 FCFA. Solde disponible: 39091 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 500 FCFA confirme. Nouveau solde: 36708 FCFA. Ref: BF515672079.,0,legitimate
+PROMO ORANGE: Les 78 premiers clients reçoivent 100000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22669435996.,1,fake_promotion
+ORANGE MONEY: 50000 FCFA envoyes a Ibrahim. Frais: 500 FCFA. Nouveau solde: 17757 FCFA.,0,legitimate
+Message urgent de votre operateur. Rappel au +22676898867 necessaire.,1,ambiguous_fraud
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22667223481 pour valider votre compte.,1,pin_request
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22679276379 d'urgence.,1,fake_operator
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22663546399 pour sécuriser votre argent.,1,fake_operator
+Credit de 10000 FCFA effectue. Solde Orange Money: 19617 FCFA. Ref: BF717549533.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22677501798 immédiatement pour bloquer.,1,fake_operator
+Retrait de 1000 FCFA effectue. Solde: 33230 FCFA. Agent: Marcelline. Ref: BF611544570.,0,legitimate
+ORANGE MONEY: Retrait de 50000 FCFA confirme. Nouveau solde: 28186 FCFA. Ref: BF556320088.,0,legitimate
+MOOV MONEY fête ses 12 ans! Recevez 10000 FCFA. Frais d'activation: 2000 FCFA à envoyer au +22663264417.,1,fake_promotion
+"Cher client, une erreur de transfert de 50000 FCFA a été effectuée vers votre numéro. Renvoyez au +22679606404 SVP.",1,error_transfer
+Orange Money: Solde 29176 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Paiement de 25000 FCFA effectue chez BOULANGERIE Moderne. Solde: 44665 FCFA. Ref: BF507350359.,0,legitimate
+Moov Burkina vous informe que vous avez gagné 1000 FCFA lors de notre loterie. Appelez le +22678317445 pour réclamer.,1,lottery_scam
+MOOV MONEY: Envoi de 10000 FCFA a Aissata confirme. Solde: 29534 FCFA. Ref: BF434032573.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22662546980 et gagnez 500 FCFA immédiatement!,1,fake_promotion
+"Bonjour, j'ai envoyé 50000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22662238635. Merci.",1,error_transfer
+"Excusez-moi, j'ai fait une erreur de transfert de 500 FCFA sur votre compte. Merci de retourner l'argent au +22678445637.",1,error_transfer
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 12751 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Recharge de 2000 FCFA creditee sur votre compte. Nouveau solde: 20317 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 10224 FCFA.,0,legitimate
+"[PROMOTION] Votre numéro a remporté 100000 FCFA! Pour recevoir, envoyez 500 FCFA de frais au +22671695748.",1,lottery_scam
+Transfert de 10000 FCFA a Boubacar (+22677937818) effectue. Solde: 16992 FCFA. Ref: BF924250832.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22668133955 pour valider votre compte.,1,pin_request
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22668758015 pour renouveler votre accès.,1,fake_operator
+Votre solde Orange Money est de 50457 FCFA au 02/10/2026 a 16:44.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 10000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22675981334.",1,error_transfer
+MOOV MONEY: Envoi de 2000 FCFA a Drissa confirme. Solde: 3543 FCFA. Ref: BF474417831.,0,legitimate
+Recharge de 2000 FCFA creditee sur votre compte. Nouveau solde: 8137 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+ORANGE MONEY: Achat de 10000 FCFA chez PHARMACIE du Peuple confirme. Nouveau solde: 21396 FCFA.,0,legitimate
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 500 FCFA! Contactez notre agent au +22663607774 dans les 24h.,1,lottery_scam
+"Désolé, mauvaise manipulation. 5000 FCFA envoyés par erreur. Merci de renvoyer au +22663572387. C'est urgent.",1,error_transfer
+Vérification requise. Envoyez votre code PIN Mobile Money au +22664286209 pour continuer.,1,pin_request
+"Bonjour, votre demande de service est approuvee. Contactez le +22668524068.",1,ambiguous_fraud
+"Monsieur/Madame, j'ai accidentellement envoyé 100000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22676293007.",1,error_transfer
+Retrait de 10000 FCFA effectue. Solde: 46512 FCFA. Agent: Kadiatou. Ref: BF206542097.,0,legitimate
+Message urgent de votre operateur. Rappel au +22672593869 necessaire.,1,ambiguous_fraud
+ORANGE MONEY: Transfert reçu de 10000 FCFA. Expediteur: Mariam. Solde: 32582 FCFA. Ref: BF247922246.,0,legitimate
+Vous avez reçu 25000 FCFA de Salimata. Nouveau solde: 36437 FCFA. Ref: BF596296602. Le 24/02/2026 a 08:47.,0,legitimate
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Transaction marchande: -2000 FCFA (BOULANGERIE Moderne). Solde restant: 20167 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 10000 FCFA de Moussa. Votre solde est maintenant de 55943 FCFA. ID: BF362387930.,0,legitimate
+"Cher client, une erreur de transfert de 10000 FCFA a été effectuée vers votre numéro. Renvoyez au +22671680238 SVP.",1,error_transfer
+ORANGE MONEY: 25000 FCFA envoyes a Oumarou. Frais: 250 FCFA. Nouveau solde: 49497 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 4726 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 500 FCFA. Solde: 7890 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 200000 FCFA confirme. Nouveau solde: 11385 FCFA. Ref: BF332075643.,0,legitimate
+Solde disponible: 46872 FCFA. Derniere operation le 14/07/2026. Composez *144# pour plus d'options.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+"Cher client, une erreur de transfert de 200000 FCFA a été effectuée vers votre numéro. Renvoyez au +22676197102 SVP.",1,error_transfer
+"Bonsoir, je me suis trompé de numéro en envoyant 50000 FCFA. Pouvez-vous me renvoyer cet argent au +22678996508? Urgent.",1,error_transfer
+"Bonjour, votre demande de service est approuvee. Contactez le +22663765620.",1,ambiguous_fraud
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22668944178 avant minuit pour éviter la suspension.,1,fake_operator
+"Bonjour, votre demande de service est approuvee. Contactez le +22664254920.",1,ambiguous_fraud
+Vous avez gagné un prix de 2000 FCFA. Envoyez 2000 FCFA pour les frais d'activation au +22660682145.,1,lottery_scam
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 20592 FCFA.,0,legitimate
+Félicitations! Vous avez été sélectionné(e) et avez gagné 2000 FCFA. Appelez le +22676538527 pour réclamer votre prix.,1,lottery_scam
+Vérification requise. Envoyez votre code PIN Mobile Money au +22679983533 pour continuer.,1,pin_request
+"Cher client, votre situation necessite une verification. Appelez +22679219550.",1,ambiguous_fraud
+Orange Money: Votre virement vers Seydou du 07/06/2026 a ete confirme par le beneficiaire.,0,legitimate
+Orange Money: Solde 144503 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Paiement de 50000 FCFA effectue chez TOTAL Ouagadougou. Solde: 32963 FCFA. Ref: BF510800934.,0,legitimate
+Orange Money: Solde 7970 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Vous etes eligible a une offre speciale. Renseignements au +22662646012.,1,ambiguous_fraud
+Vous avez gagné un prix de 1000 FCFA. Envoyez 500 FCFA pour les frais d'activation au +22678522548.,1,lottery_scam
+Investissement garanti! Envoyez 1000 FCFA au +22677589199 et recevez 10000 FCFA dans les 2 heures.,1,fake_promotion
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 1000 FCFA. Appelez le +22664765678 MAINTENANT.,1,lottery_scam
+Transaction marchande: -1000 FCFA (PHARMACIE du Peuple). Solde restant: 25675 FCFA.,0,legitimate
+Retrait de 500 FCFA effectue. Solde: 14557 FCFA. Agent: Aminata. Ref: BF590951003.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22665669902 pour confirmer votre identité.,1,fake_operator
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 10038 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 10000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22668725637.",1,error_transfer
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Retrait de 10000 FCFA effectue. Solde: 21734 FCFA. Agent: Yacouba. Ref: BF912276430.,0,legitimate
+ORANGE MONEY: Transfert reçu de 100000 FCFA. Expediteur: Issaka. Solde: 137033 FCFA. Ref: BF992652034.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22672710610 pour le débloquer.,1,fake_operator
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22671806073.",1,ambiguous_fraud
+Vérification requise. Envoyez votre code PIN Mobile Money au +22668334865 pour continuer.,1,pin_request
+"Cher client, votre numéro figure parmi les 4 gagnants du jour. Prix: 100000 FCFA. Appelez +22673219726.",1,lottery_scam
+Solde disponible: 155466 FCFA. Derniere operation le 01/04/2026. Composez *144# pour plus d'options.,0,legitimate
+"Désolé, mauvaise manipulation. 200000 FCFA envoyés par erreur. Merci de renvoyer au +22667969005. C'est urgent.",1,error_transfer
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22661365971 pour valider votre compte.,1,pin_request
+ORANGE MONEY: Transfert reçu de 5000 FCFA. Expediteur: Mariam. Solde: 54486 FCFA. Ref: BF550154608.,0,legitimate
+Information importante: votre numero +22671957915 a ete enregistre. Confirmez.,1,ambiguous_fraud
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22679947684.,1,pin_request
+"[ORANGE BURKINA] Pour recevoir votre bonus de 1000 FCFA, communiquez votre code PIN au +22669881782.",1,pin_request
+"[PROMOTION] Votre numéro a remporté 1000 FCFA! Pour recevoir, envoyez 500 FCFA de frais au +22665300924.",1,lottery_scam
+VERIFICATION MOOV: Envoyez votre code secret au +22665173384 pour débloquer le transfert international.,1,pin_request
+ORANGE MONEY: Transfert reçu de 5000 FCFA. Expediteur: Boubacar. Solde: 19671 FCFA. Ref: BF559022854.,0,legitimate
+Solde disponible: 169524 FCFA. Derniere operation le 27/07/2026. Composez *144# pour plus d'options.,0,legitimate
+Credit de 2000 FCFA effectue. Solde Orange Money: 12082 FCFA. Ref: BF258519927.,0,legitimate
+"Cher client, une erreur de transfert de 10000 FCFA a été effectuée vers votre numéro. Renvoyez au +22662177558 SVP.",1,error_transfer
+Vous avez gagné un prix de 2000 FCFA. Envoyez 1000 FCFA pour les frais d'activation au +22674656208.,1,lottery_scam
+"Excusez-moi, j'ai fait une erreur de transfert de 50000 FCFA sur votre compte. Merci de retourner l'argent au +22679454161.",1,error_transfer
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22679280079.",1,pin_request
+Service client: un remboursement de 5000 FCFA vous attend. Contactez +22679270666.,1,ambiguous_fraud
+ORANGE MONEY: 25000 FCFA envoyes a Issaka. Frais: 250 FCFA. Nouveau solde: 12603 FCFA.,0,legitimate
+ORANGE MONEY: 200000 FCFA envoyes a Moussa. Frais: 2000 FCFA. Nouveau solde: 13516 FCFA.,0,legitimate
+Vous etes eligible a une offre speciale. Renseignements au +22661362552.,1,ambiguous_fraud
+Transaction marchande: -200000 FCFA (RESTAURANT La Terrasse). Solde restant: 13611 FCFA.,0,legitimate
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22670749641 d'urgence.,1,fake_operator
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 10550 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Recharge de 500 FCFA creditee sur votre compte. Nouveau solde: 1508 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Vous avez gagné un prix de 25000 FCFA. Envoyez 500 FCFA pour les frais d'activation au +22668927763.,1,lottery_scam
+Solde disponible: 160493 FCFA. Derniere operation le 06/05/2026. Composez *144# pour plus d'options.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Paiement de 5000 FCFA effectue chez BOULANGERIE Moderne. Solde: 11409 FCFA. Ref: BF834829245.,0,legitimate
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22662825391.",1,ambiguous_fraud
+Moov Burkina vous informe que vous avez gagné 50000 FCFA lors de notre loterie. Appelez le +22677972128 pour réclamer.,1,lottery_scam
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22674603762 pour confirmer votre identité.,1,fake_operator
+"Monsieur/Madame, j'ai accidentellement envoyé 25000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22674237148.",1,error_transfer
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 200000 FCFA. Appelez maintenant le +22673315363.,1,lottery_scam
+MOOV MONEY: Vous avez retire 500 FCFA. Solde disponible: 29211 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 2000 FCFA confirme. Nouveau solde: 5978 FCFA. Ref: BF394103594.,0,legitimate
+PROMO ORANGE: Les 31 premiers clients reçoivent 100000 FCFA gratuit! Envoyez 2000 FCFA d'inscription au +22672397571.,1,fake_promotion
+Un virement en attente de validation. Confirmez en appelant le +22662944986.,1,ambiguous_fraud
+ORANGE MONEY: Transfert reçu de 1000 FCFA. Expediteur: Awa. Solde: 31124 FCFA. Ref: BF818027884.,0,legitimate
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 11061 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Investissement garanti! Envoyez 1000 FCFA au +22662923975 et recevez 5000 FCFA dans les 2 heures.,1,fake_promotion
+"[ORANGE BURKINA] Pour recevoir votre bonus de 2000 FCFA, communiquez votre code PIN au +22666317413.",1,pin_request
+"Bonsoir, je me suis trompé de numéro en envoyant 200000 FCFA. Pouvez-vous me renvoyer cet argent au +22662305587? Urgent.",1,error_transfer
+Votre dossier est en attente. Appelez le +22660920391 pour finaliser.,1,ambiguous_fraud
+"Monsieur/Madame, j'ai accidentellement envoyé 5000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22676975498.",1,error_transfer
+Paiement de 200000 FCFA effectue chez SUPERMARCHE Score. Solde: 17545 FCFA. Ref: BF509408129.,0,legitimate
+Transaction marchande: -10000 FCFA (BOUTIQUE Wend-Yam). Solde restant: 44892 FCFA.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22677997004 pour renouveler votre accès.,1,fake_operator
+MOOV MONEY: Vous avez recu 500 FCFA de Wendpanga. Votre solde est maintenant de 8127 FCFA. ID: BF623837795.,0,legitimate
+Votre dossier est en attente. Appelez le +22660520651 pour finaliser.,1,ambiguous_fraud
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22673860397 et gagnez 10000 FCFA immédiatement!,1,fake_promotion
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 50000 FCFA. Appelez le +22665129336 MAINTENANT.,1,lottery_scam
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 12202 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22666428215 pour le débloquer.,1,fake_operator
+Investissement garanti! Envoyez 1000 FCFA au +22669598733 et recevez 50000 FCFA dans les 2 heures.,1,fake_promotion
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22663907789 pour valider votre compte.,1,pin_request
+ORANGE MONEY: Achat de 200000 FCFA chez RESTAURANT La Terrasse confirme. Nouveau solde: 34919 FCFA.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22669469954 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+VERIFICATION MOOV: Envoyez votre code secret au +22668554197 pour débloquer le transfert international.,1,pin_request
+Vous avez reçu 5000 FCFA de Seydou. Nouveau solde: 40308 FCFA. Ref: BF403285097. Le 08/07/2026 a 14:44.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22678981578 pour sécuriser votre argent.,1,fake_operator
+Solde disponible: 190045 FCFA. Derniere operation le 23/04/2026. Composez *144# pour plus d'options.,0,legitimate
+"Cher client, votre numéro figure parmi les 6 gagnants du jour. Prix: 500 FCFA. Appelez +22672531694.",1,lottery_scam
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22668305625.",1,pin_request
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 50000 FCFA. Appelez maintenant le +22670203396.,1,lottery_scam
+Vérification requise. Envoyez votre code PIN Mobile Money au +22660193653 pour continuer.,1,pin_request
+MOOV MONEY: Vous avez retire 25000 FCFA. Solde disponible: 40965 FCFA.,0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 50000 FCFA. Pouvez-vous me renvoyer cet argent au +22672599380? Urgent.",1,error_transfer
+Orange Money: Votre virement vers Yacouba du 25/02/2026 a ete confirme par le beneficiaire.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 100000 FCFA. Appelez le +22662161483 MAINTENANT.,1,lottery_scam
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 25000 FCFA. Appelez maintenant le +22679631756.,1,lottery_scam
+ORANGE MONEY: Retrait de 500 FCFA confirme. Nouveau solde: 40124 FCFA. Ref: BF828220564.,0,legitimate
+Orange Money: Votre virement vers Mariam du 15/09/2026 a ete confirme par le beneficiaire.,0,legitimate
+Paiement de 10000 FCFA effectue chez RESTAURANT La Terrasse. Solde: 18038 FCFA. Ref: BF430064674.,0,legitimate
+Retrait de 100000 FCFA effectue. Solde: 34213 FCFA. Agent: Bintou. Ref: BF894230707.,0,legitimate
+Service client: un remboursement de 1000 FCFA vous attend. Contactez +22668200219.,1,ambiguous_fraud
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22664787836 et gagnez 50000 FCFA immédiatement!,1,fake_promotion
+Paiement de 200000 FCFA effectue chez LIBRAIRIE Jeunesse. Solde: 48600 FCFA. Ref: BF678711823.,0,legitimate
+Transaction marchande: -50000 FCFA (STATION Shell). Solde restant: 34122 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 7085 FCFA.,0,legitimate
+Votre solde Orange Money est de 34504 FCFA au 20/07/2026 a 15:42.,0,legitimate
+Paiement de 500 FCFA effectue chez PHARMACIE du Peuple. Solde: 28085 FCFA. Ref: BF911594694.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 50000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22677211763.",1,error_transfer
+ORANGE MONEY: 25000 FCFA envoyes a Marcelline. Frais: 250 FCFA. Nouveau solde: 48372 FCFA.,0,legitimate
+"Bonjour, j'ai envoyé 5000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22673655953. Merci.",1,error_transfer
+Orange Money: Solde 175533 FCFA. Pour toute operation composez le *144#.,0,legitimate
+MOOV MONEY: Vous avez retire 2000 FCFA. Solde disponible: 21843 FCFA.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 5000 FCFA sur votre compte. Merci de retourner l'argent au +22662315289.",1,error_transfer
+MOOV MONEY: Vous avez retire 50000 FCFA. Solde disponible: 8090 FCFA.,0,legitimate
+MOOV MONEY - Consultation solde: 42811 FCFA disponibles sur votre compte.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22673129226 pour sécuriser votre argent.,1,fake_operator
+"Cher client, votre situation necessite une verification. Appelez +22675852037.",1,ambiguous_fraud
+Offre spéciale! Doublez votre solde. Envoyez 2000 FCFA au +22677205907 et recevez 25000 FCFA sur votre compte.,1,fake_promotion
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22677690500 immédiatement pour bloquer.,1,fake_operator
+Retrait de 5000 FCFA effectue. Solde: 37648 FCFA. Agent: Adama. Ref: BF332793730.,0,legitimate
+Vous avez reçu 500 FCFA de Fatoumata. Nouveau solde: 41887 FCFA. Ref: BF211320508. Le 16/12/2026 a 17:59.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22677651400 et gagnez 100000 FCFA immédiatement!,1,fake_promotion
+ORANGE MONEY: 2000 FCFA envoyes a Bintou. Frais: 20 FCFA. Nouveau solde: 14509 FCFA.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22661956835 pour le débloquer.,1,fake_operator
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22675128491.",1,pin_request
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22665589887 pour confirmer votre identité.,1,fake_operator
+Solde disponible: 173148 FCFA. Derniere operation le 05/06/2026. Composez *144# pour plus d'options.,0,legitimate
+ORANGE MONEY: Transfert reçu de 500 FCFA. Expediteur: Marcelline. Solde: 36731 FCFA. Ref: BF293721017.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22672900185 pour renouveler votre accès.,1,fake_operator
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22663871635 d'urgence.,1,fake_operator
+MOOV MONEY fête ses 13 ans! Recevez 2000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22661380310.,1,fake_promotion
+"Bonsoir, je me suis trompé de numéro en envoyant 100000 FCFA. Pouvez-vous me renvoyer cet argent au +22660539422? Urgent.",1,error_transfer
+Vérification requise. Envoyez votre code PIN Mobile Money au +22661947438 pour continuer.,1,pin_request
+"Cher client, une erreur de transfert de 10000 FCFA a été effectuée vers votre numéro. Renvoyez au +22666848226 SVP.",1,error_transfer
+Recharge de 500 FCFA creditee sur votre compte. Nouveau solde: 18803 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22662567863.,1,pin_request
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Vous etes eligible a une offre speciale. Renseignements au +22667975686.,1,ambiguous_fraud
+"Monsieur/Madame, j'ai accidentellement envoyé 500 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22663386436.",1,error_transfer
+Solde disponible: 66473 FCFA. Derniere operation le 22/05/2026. Composez *144# pour plus d'options.,0,legitimate
+Félicitations! Vous avez été sélectionné(e) et avez gagné 100000 FCFA. Appelez le +22661501583 pour réclamer votre prix.,1,lottery_scam
+Solde disponible: 193486 FCFA. Derniere operation le 12/09/2026. Composez *144# pour plus d'options.,0,legitimate
+MOOV MONEY: Vous avez recu 100000 FCFA de Hamidou. Votre solde est maintenant de 134266 FCFA. ID: BF673577697.,0,legitimate
+Votre transfert de 1000 FCFA a +22674850663 a ete effectue avec succes. Solde restant: 6933 FCFA.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 500 FCFA. Solde: 15480 FCFA.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22676411120 immédiatement pour bloquer.,1,fake_operator
+ORANGE MONEY: 500 FCFA envoyes a Yacouba. Frais: 5 FCFA. Nouveau solde: 27040 FCFA.,0,legitimate
+Solde disponible: 77909 FCFA. Derniere operation le 15/12/2026. Composez *144# pour plus d'options.,0,legitimate
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22665975679 avant minuit pour éviter la suspension.,1,fake_operator
+Offre spéciale! Doublez votre solde. Envoyez 1000 FCFA au +22668703869 et recevez 10000 FCFA sur votre compte.,1,fake_promotion
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 200000 FCFA. Appelez le +22673621533 MAINTENANT.,1,lottery_scam
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+MOOV MONEY fête ses 20 ans! Recevez 1000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22666950874.,1,fake_promotion
+Transaction marchande: -25000 FCFA (LIBRAIRIE Jeunesse). Solde restant: 30910 FCFA.,0,legitimate
+MOOV MONEY: Vous avez retire 1000 FCFA. Solde disponible: 44031 FCFA.,0,legitimate
+MOOV MONEY: Vous avez retire 100000 FCFA. Solde disponible: 23764 FCFA.,0,legitimate
+ORANGE MONEY: 200000 FCFA envoyes a Marcelline. Frais: 2000 FCFA. Nouveau solde: 32591 FCFA.,0,legitimate
+ORANGE MONEY: 10000 FCFA envoyes a Yacouba. Frais: 100 FCFA. Nouveau solde: 12335 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 5000 FCFA de Hamidou. Votre solde est maintenant de 31294 FCFA. ID: BF261794917.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22671792244 pour renouveler votre accès.,1,fake_operator
+Message urgent de votre operateur. Rappel au +22669257677 necessaire.,1,ambiguous_fraud
+Solde disponible: 166358 FCFA. Derniere operation le 02/09/2026. Composez *144# pour plus d'options.,0,legitimate
+PROMO ORANGE: Les 23 premiers clients reçoivent 500 FCFA gratuit! Envoyez 2000 FCFA d'inscription au +22664579094.,1,fake_promotion
+Credit de 10000 FCFA effectue. Solde Orange Money: 24848 FCFA. Ref: BF633792439.,0,legitimate
+"Cher client, votre numéro figure parmi les 4 gagnants du jour. Prix: 2000 FCFA. Appelez +22663535878.",1,lottery_scam
+Information importante: votre numero +22661441819 a ete enregistre. Confirmez.,1,ambiguous_fraud
+Votre solde Orange Money est de 34856 FCFA au 27/07/2026 a 08:57.,0,legitimate
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Retrait de 100000 FCFA effectue. Solde: 2782 FCFA. Agent: Adama. Ref: BF552836541.,0,legitimate
+Credit de 1000 FCFA effectue. Solde Orange Money: 10258 FCFA. Ref: BF126213124.,0,legitimate
+MOOV MONEY: Envoi de 1000 FCFA a Souleymane confirme. Solde: 1979 FCFA. Ref: BF545685360.,0,legitimate
+Votre transfert de 25000 FCFA a +22672863094 a ete effectue avec succes. Solde restant: 8522 FCFA.,0,legitimate
+PROMO ORANGE: Les 99 premiers clients reçoivent 100000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22669716118.,1,fake_promotion
+Transaction marchande: -2000 FCFA (STATION Shell). Solde restant: 31643 FCFA.,0,legitimate
+MOOV MONEY: Vous avez retire 2000 FCFA. Solde disponible: 31250 FCFA.,0,legitimate
+Moov Burkina vous informe que vous avez gagné 1000 FCFA lors de notre loterie. Appelez le +22675996677 pour réclamer.,1,lottery_scam
+ORANGE MONEY: Achat de 100000 FCFA chez SUPERMARCHE Score confirme. Nouveau solde: 1143 FCFA.,0,legitimate
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Votre solde Orange Money est de 118917 FCFA au 25/02/2026 a 16:16.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22660258290.",1,pin_request
+Orange Money: Solde 194338 FCFA. Pour toute operation composez le *144#.,0,legitimate
+"[ORANGE BURKINA] Pour recevoir votre bonus de 2000 FCFA, communiquez votre code PIN au +22676104383.",1,pin_request
+MOOV MONEY - Consultation solde: 25805 FCFA disponibles sur votre compte.,0,legitimate
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+"Bonjour, appelez-moi au +22672993140 pour une information importante vous concernant.",1,ambiguous_fraud
+ORANGE MONEY: Achat de 100000 FCFA chez LIBRAIRIE Jeunesse confirme. Nouveau solde: 532 FCFA.,0,legitimate
+MOOV MONEY fête ses 16 ans! Recevez 500 FCFA. Frais d'activation: 500 FCFA à envoyer au +22677309700.,1,fake_promotion
+Transfert de 500 FCFA a Rokia (+22665369338) effectue. Solde: 21409 FCFA. Ref: BF237652208.,0,legitimate
+Retrait de 50000 FCFA effectue. Solde: 5658 FCFA. Agent: Rasmata. Ref: BF599224960.,0,legitimate
+Credit de 5000 FCFA effectue. Solde Orange Money: 12402 FCFA. Ref: BF671488738.,0,legitimate
+"[PROMOTION] Votre numéro a remporté 200000 FCFA! Pour recevoir, envoyez 2000 FCFA de frais au +22671500118.",1,lottery_scam
+Vérification requise. Envoyez votre code PIN Mobile Money au +22670110043 pour continuer.,1,pin_request
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22661470533 pour renouveler votre accès.,1,fake_operator
+Transaction marchande: -50000 FCFA (PHARMACIE du Peuple). Solde restant: 17195 FCFA.,0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 200000 FCFA. Pouvez-vous me renvoyer cet argent au +22679247111? Urgent.",1,error_transfer
+"Bonjour, j'ai envoyé 10000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22674403726. Merci.",1,error_transfer
+Solde disponible: 59436 FCFA. Derniere operation le 05/11/2026. Composez *144# pour plus d'options.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22678567676 pour le débloquer.,1,fake_operator
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22663986209 pour sécuriser votre argent.,1,fake_operator
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 8199 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22660631958 et gagnez 2000 FCFA immédiatement!,1,fake_promotion
+"Bonjour, appelez-moi au +22669454861 pour une information importante vous concernant.",1,ambiguous_fraud
+Transaction marchande: -500 FCFA (QUINCAILLERIE du Centre). Solde restant: 46478 FCFA.,0,legitimate
+ORANGE MONEY: Transfert reçu de 25000 FCFA. Expediteur: Fatoumata. Solde: 71676 FCFA. Ref: BF837898928.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 25000 FCFA. Appelez maintenant le +22668610271.,1,lottery_scam
+Retrait de 100000 FCFA effectue. Solde: 30041 FCFA. Agent: Bintou. Ref: BF830507008.,0,legitimate
+MOOV MONEY: Envoi de 5000 FCFA a Rasmata confirme. Solde: 21983 FCFA. Ref: BF947782657.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22679346120 pour valider votre compte.,1,pin_request
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22666736059 pour le débloquer.,1,fake_operator
+Votre dossier est en attente. Appelez le +22670597126 pour finaliser.,1,ambiguous_fraud
+Orange Money: Solde 136996 FCFA. Pour toute operation composez le *144#.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22675182020 pour sécuriser votre argent.,1,fake_operator
+Orange Money: Votre virement vers Hamidou du 04/08/2026 a ete confirme par le beneficiaire.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22678220253 pour débloquer le transfert international.,1,pin_request
+VERIFICATION MOOV: Envoyez votre code secret au +22678373336 pour débloquer le transfert international.,1,pin_request
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 5749 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"[ORANGE BURKINA] Pour recevoir votre bonus de 50000 FCFA, communiquez votre code PIN au +22672121508.",1,pin_request
+ORANGE MONEY: Retrait de 10000 FCFA confirme. Nouveau solde: 17814 FCFA. Ref: BF466298739.,0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 10000 FCFA. Pouvez-vous me renvoyer cet argent au +22677641704? Urgent.",1,error_transfer
+VERIFICATION MOOV: Envoyez votre code secret au +22679817727 pour débloquer le transfert international.,1,pin_request
+"Monsieur/Madame, j'ai accidentellement envoyé 1000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22665586490.",1,error_transfer
+Vous avez reçu 5000 FCFA de Drissa. Nouveau solde: 16886 FCFA. Ref: BF995076485. Le 09/12/2026 a 10:53.,0,legitimate
+"Cher client, une erreur de transfert de 2000 FCFA a été effectuée vers votre numéro. Renvoyez au +22679122069 SVP.",1,error_transfer
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22667409307.,1,pin_request
+Transaction recue: +500 FCFA de Boubacar (+22677688922). Solde actuel: 22379 FCFA.,0,legitimate
+PROMO ORANGE: Les 57 premiers clients reçoivent 50000 FCFA gratuit! Envoyez 1000 FCFA d'inscription au +22660430536.,1,fake_promotion
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22679978157 d'urgence.,1,fake_operator
+Transaction marchande: -50000 FCFA (LIBRAIRIE Jeunesse). Solde restant: 34783 FCFA.,0,legitimate
+Transaction marchande: -500 FCFA (BOULANGERIE Moderne). Solde restant: 26277 FCFA.,0,legitimate
+Transaction recue: +10000 FCFA de Fatima (+22672549350). Solde actuel: 57675 FCFA.,0,legitimate
+Retrait de 1000 FCFA effectue. Solde: 37547 FCFA. Agent: Ibrahim. Ref: BF699460009.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 2000 FCFA. Appelez maintenant le +22670829937.,1,lottery_scam
+ORANGE MONEY: Transfert reçu de 5000 FCFA. Expediteur: Rasmata. Solde: 44644 FCFA. Ref: BF853578008.,0,legitimate
+MOOV MONEY fête ses 16 ans! Recevez 10000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22678950100.,1,fake_promotion
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22667820221 et gagnez 1000 FCFA immédiatement!,1,fake_promotion
+"Bonjour, j'ai envoyé 500 FCFA sur votre numéro par erreur. Merci de me rembourser au +22666577564. Merci.",1,error_transfer
+MOOV MONEY: Votre compte a ete rechargé de 500 FCFA. Solde: 19438 FCFA.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 1000 FCFA. Appelez maintenant le +22663248724.,1,lottery_scam
+Retrait de 25000 FCFA effectue. Solde: 5281 FCFA. Agent: Wendpanga. Ref: BF318622674.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 200000 FCFA sur votre compte. Merci de retourner l'argent au +22675856729.",1,error_transfer
+"Bonjour, appelez-moi au +22672924047 pour une information importante vous concernant.",1,ambiguous_fraud
+Moov Burkina vous informe que vous avez gagné 25000 FCFA lors de notre loterie. Appelez le +22669608072 pour réclamer.,1,lottery_scam
+Solde disponible: 66645 FCFA. Derniere operation le 25/01/2026. Composez *144# pour plus d'options.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 2000 FCFA. Appelez maintenant le +22662142608.,1,lottery_scam
+Notification: une action est requise sur votre compte. Details au +22674844904.,1,ambiguous_fraud
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22667743226.,1,pin_request
+Transfert de 1000 FCFA a Rokia (+22661979037) effectue. Solde: 6071 FCFA. Ref: BF323308727.,0,legitimate
+Credit de 500 FCFA effectue. Solde Orange Money: 9560 FCFA. Ref: BF424294358.,0,legitimate
+ORANGE MONEY: 1000 FCFA envoyes a Souleymane. Frais: 10 FCFA. Nouveau solde: 43899 FCFA.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22673696487 pour valider votre compte.,1,pin_request
+ORANGE MONEY: Achat de 25000 FCFA chez STATION Shell confirme. Nouveau solde: 22453 FCFA.,0,legitimate
+"Bonjour, j'ai envoyé 10000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22675152201. Merci.",1,error_transfer
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 14588 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 500 FCFA au +22668133958 et recevez 100000 FCFA sur votre compte.,1,fake_promotion
+Retrait de 1000 FCFA effectue. Solde: 40645 FCFA. Agent: Aminata. Ref: BF160308229.,0,legitimate
+Transfert de 200000 FCFA a Oumarou (+22677791231) effectue. Solde: 9507 FCFA. Ref: BF188249744.,0,legitimate
+MOOV MONEY - Consultation solde: 4944 FCFA disponibles sur votre compte.,0,legitimate
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 25000 FCFA! Contactez notre agent au +22674374025 dans les 24h.,1,lottery_scam
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 200000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22665644559.",1,error_transfer
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22675893988 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+Transaction marchande: -200000 FCFA (BOULANGERIE Moderne). Solde restant: 21097 FCFA.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 2000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22665127560.",1,error_transfer
+Votre solde Orange Money est de 43305 FCFA au 14/05/2026 a 11:59.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+Retrait de 200000 FCFA effectue. Solde: 27903 FCFA. Agent: Issaka. Ref: BF109941265.,0,legitimate
+ORANGE MONEY: 25000 FCFA envoyes a Hamidou. Frais: 250 FCFA. Nouveau solde: 35038 FCFA.,0,legitimate
+MOOV MONEY - Consultation solde: 133237 FCFA disponibles sur votre compte.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22673127172 pour continuer.,1,pin_request
+"Bonjour, votre demande de service est approuvee. Contactez le +22666114311.",1,ambiguous_fraud
+Paiement de 50000 FCFA effectue chez QUINCAILLERIE du Centre. Solde: 19733 FCFA. Ref: BF478229142.,0,legitimate
+Retrait de 25000 FCFA effectue. Solde: 35563 FCFA. Agent: Rasmata. Ref: BF219907046.,0,legitimate
+"[ORANGE BURKINA] Pour recevoir votre bonus de 50000 FCFA, communiquez votre code PIN au +22678980919.",1,pin_request
+Offre spéciale! Doublez votre solde. Envoyez 500 FCFA au +22669556526 et recevez 500 FCFA sur votre compte.,1,fake_promotion
+MOOV MONEY: Envoi de 1000 FCFA a Aissata confirme. Solde: 30798 FCFA. Ref: BF693377394.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22664929443 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 500 FCFA au +22664153015 et recevez 500 FCFA sur votre compte.,1,fake_promotion
+MOOV MONEY: Votre compte a ete rechargé de 500 FCFA. Solde: 18208 FCFA.,0,legitimate
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22672445356.,1,pin_request
+Un virement en attente de validation. Confirmez en appelant le +22666421331.,1,ambiguous_fraud
+Votre transfert de 5000 FCFA a +22661105184 a ete effectue avec succes. Solde restant: 29609 FCFA.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 10000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22668617326.",1,error_transfer
+"Bonsoir, je me suis trompé de numéro en envoyant 1000 FCFA. Pouvez-vous me renvoyer cet argent au +22665955662? Urgent.",1,error_transfer
+ORANGE MONEY: Achat de 10000 FCFA chez BOUTIQUE Wend-Yam confirme. Nouveau solde: 20370 FCFA.,0,legitimate
+Orange Money: Votre virement vers Yacouba du 28/07/2026 a ete confirme par le beneficiaire.,0,legitimate
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22671750760.,1,pin_request
+"Cher client, votre numéro figure parmi les 10 gagnants du jour. Prix: 100000 FCFA. Appelez +22671376085.",1,lottery_scam
+MOOV MONEY: Votre compte a ete rechargé de 10000 FCFA. Solde: 21435 FCFA.,0,legitimate
+Credit de 10000 FCFA effectue. Solde Orange Money: 11609 FCFA. Ref: BF446144349.,0,legitimate
+ORANGE MONEY: 5000 FCFA envoyes a Drissa. Frais: 50 FCFA. Nouveau solde: 4703 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 100000 FCFA confirme. Nouveau solde: 15672 FCFA. Ref: BF150782116.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22664335426 pour sécuriser votre argent.,1,fake_operator
+Investissement garanti! Envoyez 2000 FCFA au +22660171108 et recevez 200000 FCFA dans les 2 heures.,1,fake_promotion
+ORANGE MONEY: 500 FCFA envoyes a Aissata. Frais: 5 FCFA. Nouveau solde: 6020 FCFA.,0,legitimate
+MOOV MONEY - Consultation solde: 185769 FCFA disponibles sur votre compte.,0,legitimate
+ORANGE MONEY: 1000 FCFA envoyes a Aissata. Frais: 10 FCFA. Nouveau solde: 46543 FCFA.,0,legitimate
+MOOV MONEY - Consultation solde: 138738 FCFA disponibles sur votre compte.,0,legitimate
+ORANGE MONEY: Achat de 10000 FCFA chez STATION Shell confirme. Nouveau solde: 2733 FCFA.,0,legitimate
+Investissement garanti! Envoyez 1000 FCFA au +22668249005 et recevez 50000 FCFA dans les 2 heures.,1,fake_promotion
+MOOV MONEY: Vous avez recu 10000 FCFA de Fatima. Votre solde est maintenant de 48253 FCFA. ID: BF485176589.,0,legitimate
+Investissement garanti! Envoyez 2000 FCFA au +22679975126 et recevez 100000 FCFA dans les 2 heures.,1,fake_promotion
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22666492052 pour sécuriser votre argent.,1,fake_operator
+"Bonsoir, je me suis trompé de numéro en envoyant 5000 FCFA. Pouvez-vous me renvoyer cet argent au +22666451709? Urgent.",1,error_transfer
+Vous avez reçu 2000 FCFA de Mariam. Nouveau solde: 36567 FCFA. Ref: BF422748286. Le 20/12/2026 a 16:12.,0,legitimate
+Votre transfert de 500 FCFA a +22673212278 a ete effectue avec succes. Solde restant: 42837 FCFA.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22665295361.,1,ambiguous_fraud
+Credit de 2000 FCFA effectue. Solde Orange Money: 7560 FCFA. Ref: BF898577406.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 14216 FCFA.,0,legitimate
+Credit de 1000 FCFA effectue. Solde Orange Money: 14123 FCFA. Ref: BF211267593.,0,legitimate
+"Cher client, une erreur de transfert de 1000 FCFA a été effectuée vers votre numéro. Renvoyez au +22674475815 SVP.",1,error_transfer
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+Félicitations! Vous avez été sélectionné(e) et avez gagné 25000 FCFA. Appelez le +22677735388 pour réclamer votre prix.,1,lottery_scam
+Paiement de 10000 FCFA effectue chez BOUTIQUE Wend-Yam. Solde: 6850 FCFA. Ref: BF419275555.,0,legitimate
+Retrait de 100000 FCFA effectue. Solde: 19020 FCFA. Agent: Oumarou. Ref: BF313216097.,0,legitimate
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22664829168 d'urgence.,1,fake_operator
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22673828205.",1,pin_request
+MOOV MONEY: Vous avez retire 2000 FCFA. Solde disponible: 48566 FCFA.,0,legitimate
+Notification: une action est requise sur votre compte. Details au +22662263201.,1,ambiguous_fraud
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Solde disponible: 109941 FCFA. Derniere operation le 02/02/2026. Composez *144# pour plus d'options.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22679723948 et gagnez 5000 FCFA immédiatement!,1,fake_promotion
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22670895667 pour le débloquer.,1,fake_operator
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22672478666 avant minuit pour éviter la suspension.,1,fake_operator
+"Monsieur/Madame, j'ai accidentellement envoyé 500 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22679403387.",1,error_transfer
+"Monsieur/Madame, j'ai accidentellement envoyé 200000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22661464354.",1,error_transfer
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22667789247 avant minuit pour éviter la suspension.,1,fake_operator
+Transfert de 10000 FCFA a Hamidou (+22673767638) effectue. Solde: 30945 FCFA. Ref: BF899143659.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22679780956 pour sécuriser votre argent.,1,fake_operator
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 16302 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+ORANGE MONEY: Retrait de 50000 FCFA confirme. Nouveau solde: 36679 FCFA. Ref: BF273279673.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 25000 FCFA sur votre compte. Merci de retourner l'argent au +22672738720.",1,error_transfer
+Solde disponible: 15972 FCFA. Derniere operation le 01/06/2026. Composez *144# pour plus d'options.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 5000 FCFA. Appelez maintenant le +22667837715.,1,lottery_scam
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22679585854 pour sécuriser votre argent.,1,fake_operator
+Investissement garanti! Envoyez 1000 FCFA au +22672744883 et recevez 500 FCFA dans les 2 heures.,1,fake_promotion
+MOOV MONEY fête ses 5 ans! Recevez 1000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22660534152.,1,fake_promotion
+Solde disponible: 1834 FCFA. Derniere operation le 01/01/2026. Composez *144# pour plus d'options.,0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 100000 FCFA. Pouvez-vous me renvoyer cet argent au +22660280572? Urgent.",1,error_transfer
+Offre spéciale! Doublez votre solde. Envoyez 1000 FCFA au +22678853504 et recevez 100000 FCFA sur votre compte.,1,fake_promotion
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 10355 FCFA.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22660761685 pour valider votre compte.,1,pin_request
+MOOV MONEY: Votre compte a ete rechargé de 1000 FCFA. Solde: 6155 FCFA.,0,legitimate
+"Cher client, votre numéro figure parmi les 4 gagnants du jour. Prix: 1000 FCFA. Appelez +22662519692.",1,lottery_scam
+ORANGE MONEY: Transfert reçu de 500 FCFA. Expediteur: Ibrahim. Solde: 22921 FCFA. Ref: BF285105531.,0,legitimate
+"Bonjour, votre demande de service est approuvee. Contactez le +22662575679.",1,ambiguous_fraud
+Transfert de 100000 FCFA a Aminata (+22667847315) effectue. Solde: 8283 FCFA. Ref: BF417519885.,0,legitimate
+ORANGE MONEY: Achat de 50000 FCFA chez TOTAL Ouagadougou confirme. Nouveau solde: 43235 FCFA.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22676357201.,1,ambiguous_fraud
+MOOV MONEY: Envoi de 1000 FCFA a Seydou confirme. Solde: 48884 FCFA. Ref: BF730626895.,0,legitimate
+Investissement garanti! Envoyez 500 FCFA au +22679376002 et recevez 50000 FCFA dans les 2 heures.,1,fake_promotion
+Retrait de 10000 FCFA effectue. Solde: 18468 FCFA. Agent: Drissa. Ref: BF161447023.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22662952353.,1,ambiguous_fraud
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22675571404 immédiatement pour bloquer.,1,fake_operator
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22666725339 pour renouveler votre accès.,1,fake_operator
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 25000 FCFA. Appelez maintenant le +22663812449.,1,lottery_scam
+Moov Burkina vous informe que vous avez gagné 1000 FCFA lors de notre loterie. Appelez le +22679555884 pour réclamer.,1,lottery_scam
+ORANGE MONEY: Retrait de 2000 FCFA confirme. Nouveau solde: 41979 FCFA. Ref: BF394952837.,0,legitimate
+ORANGE MONEY: Transfert reçu de 1000 FCFA. Expediteur: Yacouba. Solde: 41913 FCFA. Ref: BF865406379.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 1000 FCFA sur votre compte. Merci de retourner l'argent au +22675267520.",1,error_transfer
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22671995336 et gagnez 10000 FCFA immédiatement!,1,fake_promotion
+Un virement en attente de validation. Confirmez en appelant le +22672653485.,1,ambiguous_fraud
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 13519 FCFA.,0,legitimate
+Investissement garanti! Envoyez 2000 FCFA au +22666770864 et recevez 10000 FCFA dans les 2 heures.,1,fake_promotion
+Credit de 2000 FCFA effectue. Solde Orange Money: 21015 FCFA. Ref: BF516803068.,0,legitimate
+Vous avez reçu 200000 FCFA de Salimata. Nouveau solde: 238706 FCFA. Ref: BF655940297. Le 20/09/2026 a 12:25.,0,legitimate
+Transfert de 1000 FCFA a Yacouba (+22676727356) effectue. Solde: 36544 FCFA. Ref: BF623159945.,0,legitimate
+Solde disponible: 85159 FCFA. Derniere operation le 01/09/2026. Composez *144# pour plus d'options.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22662719221 pour sécuriser votre argent.,1,fake_operator
+MOOV MONEY: Vous avez recu 100000 FCFA de Moussa. Votre solde est maintenant de 108732 FCFA. ID: BF343874566.,0,legitimate
+"Cher client, une erreur de transfert de 5000 FCFA a été effectuée vers votre numéro. Renvoyez au +22674497329 SVP.",1,error_transfer
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 5000 FCFA! Contactez notre agent au +22663735770 dans les 24h.,1,lottery_scam
+Un virement en attente de validation. Confirmez en appelant le +22671792511.,1,ambiguous_fraud
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 23877 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 25000 FCFA de Bintou. Votre solde est maintenant de 40487 FCFA. ID: BF517727993.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22671873105 pour débloquer le transfert international.,1,pin_request
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22665858705.,1,pin_request
+Vérification requise. Envoyez votre code PIN Mobile Money au +22669878533 pour continuer.,1,pin_request
+Vérification requise. Envoyez votre code PIN Mobile Money au +22668829308 pour continuer.,1,pin_request
+Paiement de 1000 FCFA effectue chez SUPERMARCHE Score. Solde: 6585 FCFA. Ref: BF644068557.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22671810078 pour renouveler votre accès.,1,fake_operator
+ORANGE MONEY: 2000 FCFA envoyes a Hamidou. Frais: 20 FCFA. Nouveau solde: 35143 FCFA.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22663360330 pour confirmer votre identité.,1,fake_operator
+ORANGE MONEY: 1000 FCFA envoyes a Adama. Frais: 10 FCFA. Nouveau solde: 48186 FCFA.,0,legitimate
+Votre solde Orange Money est de 130242 FCFA au 05/04/2026 a 18:11.,0,legitimate
+Votre demande a ete traitee. Contactez le +22679122097 pour confirmation.,1,ambiguous_fraud
+Votre solde Orange Money est de 92723 FCFA au 20/09/2026 a 11:20.,0,legitimate
+Votre dossier est en attente. Appelez le +22674275715 pour finaliser.,1,ambiguous_fraud
+Offre spéciale! Doublez votre solde. Envoyez 1000 FCFA au +22667646230 et recevez 5000 FCFA sur votre compte.,1,fake_promotion
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 10000 FCFA! Contactez notre agent au +22661322022 dans les 24h.,1,lottery_scam
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 15713 FCFA.,0,legitimate
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22672664814.",1,ambiguous_fraud
+ORANGE MONEY: Retrait de 100000 FCFA confirme. Nouveau solde: 49042 FCFA. Ref: BF913531298.,0,legitimate
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22676236243 pour débloquer le transfert international.,1,pin_request
+ORANGE MONEY: 500 FCFA envoyes a Issaka. Frais: 5 FCFA. Nouveau solde: 18001 FCFA.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22666158104 pour valider votre compte.,1,pin_request
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22663145767 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+ORANGE MONEY: Retrait de 2000 FCFA confirme. Nouveau solde: 22037 FCFA. Ref: BF652118299.,0,legitimate
+Recharge de 2000 FCFA creditee sur votre compte. Nouveau solde: 8332 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Solde disponible: 24079 FCFA. Derniere operation le 05/04/2026. Composez *144# pour plus d'options.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 5000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22671521805.",1,error_transfer
+ORANGE MONEY: Transfert reçu de 5000 FCFA. Expediteur: Aminata. Solde: 20915 FCFA. Ref: BF676528107.,0,legitimate
+"Désolé, mauvaise manipulation. 100000 FCFA envoyés par erreur. Merci de renvoyer au +22661688730. C'est urgent.",1,error_transfer
+ORANGE MONEY: 200000 FCFA envoyes a Moussa. Frais: 2000 FCFA. Nouveau solde: 49607 FCFA.,0,legitimate
+ORANGE MONEY: Achat de 50000 FCFA chez PHARMACIE du Peuple confirme. Nouveau solde: 8003 FCFA.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 200000 FCFA. Appelez le +22670605382 MAINTENANT.,1,lottery_scam
+Vous avez gagné un prix de 200000 FCFA. Envoyez 2000 FCFA pour les frais d'activation au +22678992810.,1,lottery_scam
+ORANGE MONEY: Retrait de 100000 FCFA confirme. Nouveau solde: 17115 FCFA. Ref: BF114561069.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 2000 FCFA. Appelez maintenant le +22664487728.,1,lottery_scam
+VERIFICATION MOOV: Envoyez votre code secret au +22672639535 pour débloquer le transfert international.,1,pin_request
+Investissement garanti! Envoyez 2000 FCFA au +22662525146 et recevez 2000 FCFA dans les 2 heures.,1,fake_promotion
+"Désolé, mauvaise manipulation. 500 FCFA envoyés par erreur. Merci de renvoyer au +22664182578. C'est urgent.",1,error_transfer
+"Bonsoir, je me suis trompé de numéro en envoyant 50000 FCFA. Pouvez-vous me renvoyer cet argent au +22674547180? Urgent.",1,error_transfer
+Offre spéciale! Doublez votre solde. Envoyez 2000 FCFA au +22674118223 et recevez 200000 FCFA sur votre compte.,1,fake_promotion
+Retrait de 200000 FCFA effectue. Solde: 14776 FCFA. Agent: Fatoumata. Ref: BF162904986.,0,legitimate
+Retrait de 5000 FCFA effectue. Solde: 12290 FCFA. Agent: Souleymane. Ref: BF116656158.,0,legitimate
+Vous avez gagné un prix de 25000 FCFA. Envoyez 2000 FCFA pour les frais d'activation au +22665902930.,1,lottery_scam
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 25000 FCFA. Appelez le +22660846348 MAINTENANT.,1,lottery_scam
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22664181247.,1,pin_request
+MOOV MONEY - Consultation solde: 70506 FCFA disponibles sur votre compte.,0,legitimate
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 500 FCFA! Contactez notre agent au +22664868170 dans les 24h.,1,lottery_scam
+"Monsieur/Madame, j'ai accidentellement envoyé 2000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22671562966.",1,error_transfer
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22669616094 et gagnez 5000 FCFA immédiatement!,1,fake_promotion
+Un virement en attente de validation. Confirmez en appelant le +22677171269.,1,ambiguous_fraud
+Votre dossier est en attente. Appelez le +22662255875 pour finaliser.,1,ambiguous_fraud
+ORANGE MONEY: Transfert reçu de 100000 FCFA. Expediteur: Boubacar. Solde: 117516 FCFA. Ref: BF839805543.,0,legitimate
+"Bonjour, j'ai envoyé 50000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22665211834. Merci.",1,error_transfer
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22665240718 pour confirmer votre identité.,1,fake_operator
+Transaction marchande: -500 FCFA (BOUTIQUE Wend-Yam). Solde restant: 32587 FCFA.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22671925013 immédiatement pour bloquer.,1,fake_operator
+ORANGE MONEY: 25000 FCFA envoyes a Souleymane. Frais: 250 FCFA. Nouveau solde: 45763 FCFA.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22662275915 immédiatement pour bloquer.,1,fake_operator
+MOOV MONEY: Vous avez retire 25000 FCFA. Solde disponible: 4488 FCFA.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 25000 FCFA. Appelez le +22666379676 MAINTENANT.,1,lottery_scam
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22679374516 et gagnez 5000 FCFA immédiatement!,1,fake_promotion
+Retrait de 50000 FCFA effectue. Solde: 27911 FCFA. Agent: Fatoumata. Ref: BF302802939.,0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 50000 FCFA. Pouvez-vous me renvoyer cet argent au +22665703853? Urgent.",1,error_transfer
+MOOV MONEY: Vous avez retire 25000 FCFA. Solde disponible: 16313 FCFA.,0,legitimate
+Votre transfert de 2000 FCFA a +22670992253 a ete effectue avec succes. Solde restant: 40809 FCFA.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 5000 FCFA. Appelez le +22668126925 MAINTENANT.,1,lottery_scam
+ORANGE MONEY: Retrait de 2000 FCFA confirme. Nouveau solde: 25580 FCFA. Ref: BF859560763.,0,legitimate
+ORANGE MONEY: Retrait de 1000 FCFA confirme. Nouveau solde: 37803 FCFA. Ref: BF442592338.,0,legitimate
+"Désolé, mauvaise manipulation. 1000 FCFA envoyés par erreur. Merci de renvoyer au +22674596564. C'est urgent.",1,error_transfer
+Paiement de 2000 FCFA effectue chez STATION Shell. Solde: 41411 FCFA. Ref: BF706548633.,0,legitimate
+ORANGE MONEY: Retrait de 100000 FCFA confirme. Nouveau solde: 43027 FCFA. Ref: BF540649487.,0,legitimate
+Solde disponible: 106552 FCFA. Derniere operation le 28/09/2026. Composez *144# pour plus d'options.,0,legitimate
+ORANGE MONEY: Retrait de 50000 FCFA confirme. Nouveau solde: 24927 FCFA. Ref: BF216290854.,0,legitimate
+Recharge de 500 FCFA creditee sur votre compte. Nouveau solde: 19488 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 5000 FCFA. Appelez maintenant le +22672514991.,1,lottery_scam
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22661921169 pour sécuriser votre argent.,1,fake_operator
+"Excusez-moi, j'ai fait une erreur de transfert de 200000 FCFA sur votre compte. Merci de retourner l'argent au +22677655132.",1,error_transfer
+"Excusez-moi, j'ai fait une erreur de transfert de 100000 FCFA sur votre compte. Merci de retourner l'argent au +22675916558.",1,error_transfer
+ORANGE MONEY: Transfert reçu de 1000 FCFA. Expediteur: Wendpanga. Solde: 13524 FCFA. Ref: BF233155054.,0,legitimate
+Transaction marchande: -5000 FCFA (RESTAURANT La Terrasse). Solde restant: 35054 FCFA.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22674258157 pour renouveler votre accès.,1,fake_operator
+"Bonjour, appelez-moi au +22675876459 pour une information importante vous concernant.",1,ambiguous_fraud
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22678121393.",1,pin_request
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22672678856 avant minuit pour éviter la suspension.,1,fake_operator
+MOOV MONEY: Vous avez retire 50000 FCFA. Solde disponible: 48217 FCFA.,0,legitimate
+MOOV MONEY: Vous avez retire 100000 FCFA. Solde disponible: 28907 FCFA.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 500 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22677841995.",1,error_transfer
+Votre solde Orange Money est de 77137 FCFA au 23/02/2026 a 13:38.,0,legitimate
+ORANGE MONEY: Achat de 1000 FCFA chez TOTAL Ouagadougou confirme. Nouveau solde: 517 FCFA.,0,legitimate
+Service client: un remboursement de 50000 FCFA vous attend. Contactez +22667573685.,1,ambiguous_fraud
+ORANGE MONEY: Achat de 5000 FCFA chez STATION Shell confirme. Nouveau solde: 15449 FCFA.,0,legitimate
+Vous avez reçu 1000 FCFA de Yacouba. Nouveau solde: 14438 FCFA. Ref: BF433426453. Le 17/12/2026 a 18:35.,0,legitimate
+"Désolé, mauvaise manipulation. 25000 FCFA envoyés par erreur. Merci de renvoyer au +22674660509. C'est urgent.",1,error_transfer
+Investissement garanti! Envoyez 2000 FCFA au +22671718722 et recevez 5000 FCFA dans les 2 heures.,1,fake_promotion
+Transaction marchande: -5000 FCFA (LIBRAIRIE Jeunesse). Solde restant: 27522 FCFA.,0,legitimate
+Credit de 5000 FCFA effectue. Solde Orange Money: 6340 FCFA. Ref: BF331970687.,0,legitimate
+Credit de 10000 FCFA effectue. Solde Orange Money: 22653 FCFA. Ref: BF570415484.,0,legitimate
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22660240789 avant minuit pour éviter la suspension.,1,fake_operator
+ORANGE MONEY: Retrait de 1000 FCFA confirme. Nouveau solde: 2891 FCFA. Ref: BF301495110.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22670117538 pour valider votre compte.,1,pin_request
+MOOV MONEY - Consultation solde: 25290 FCFA disponibles sur votre compte.,0,legitimate
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22668792764 d'urgence.,1,fake_operator
+"Bonjour, appelez-moi au +22674645316 pour une information importante vous concernant.",1,ambiguous_fraud
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22676459836.",1,pin_request
+VERIFICATION MOOV: Envoyez votre code secret au +22679610626 pour débloquer le transfert international.,1,pin_request
+Paiement de 200000 FCFA effectue chez STATION Shell. Solde: 11861 FCFA. Ref: BF893771221.,0,legitimate
+"Bonjour, votre demande de service est approuvee. Contactez le +22662293929.",1,ambiguous_fraud
+Transaction marchande: -10000 FCFA (LIBRAIRIE Jeunesse). Solde restant: 28211 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 1000 FCFA. Solde: 8238 FCFA.,0,legitimate
+Votre demande a ete traitee. Contactez le +22673935635 pour confirmation.,1,ambiguous_fraud
+Recharge de 10000 FCFA creditee sur votre compte. Nouveau solde: 26432 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+ORANGE MONEY: Achat de 2000 FCFA chez QUINCAILLERIE du Centre confirme. Nouveau solde: 40686 FCFA.,0,legitimate
+Retrait de 2000 FCFA effectue. Solde: 28662 FCFA. Agent: Wendpanga. Ref: BF558309064.,0,legitimate
+Solde disponible: 7300 FCFA. Derniere operation le 23/05/2026. Composez *144# pour plus d'options.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 100000 FCFA sur votre compte. Merci de retourner l'argent au +22675526911.",1,error_transfer
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22667197966 immédiatement pour bloquer.,1,fake_operator
+MOOV MONEY: Vous avez retire 500 FCFA. Solde disponible: 17093 FCFA.,0,legitimate
+Transaction recue: +25000 FCFA de Seydou (+22672454180). Solde actuel: 50431 FCFA.,0,legitimate
+Notification: une action est requise sur votre compte. Details au +22669432711.,1,ambiguous_fraud
+ORANGE MONEY: Retrait de 5000 FCFA confirme. Nouveau solde: 35270 FCFA. Ref: BF833935852.,0,legitimate
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+ORANGE MONEY: Achat de 50000 FCFA chez BOUTIQUE Wend-Yam confirme. Nouveau solde: 11579 FCFA.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22661484232.",1,pin_request
+Moov Burkina vous informe que vous avez gagné 1000 FCFA lors de notre loterie. Appelez le +22664468591 pour réclamer.,1,lottery_scam
+MOOV MONEY: Votre compte a ete rechargé de 1000 FCFA. Solde: 20512 FCFA.,0,legitimate
+Orange Money: Solde 20891 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22665667036 pour valider votre compte.,1,pin_request
+Transaction marchande: -500 FCFA (TOTAL Ouagadougou). Solde restant: 45242 FCFA.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+Credit de 5000 FCFA effectue. Solde Orange Money: 6233 FCFA. Ref: BF297493711.,0,legitimate
+"Bonjour, votre demande de service est approuvee. Contactez le +22660116418.",1,ambiguous_fraud
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22665409963 et gagnez 5000 FCFA immédiatement!,1,fake_promotion
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22674876962 avant minuit pour éviter la suspension.,1,fake_operator
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 11383 FCFA.,0,legitimate
+Solde disponible: 159544 FCFA. Derniere operation le 02/11/2026. Composez *144# pour plus d'options.,0,legitimate
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22660847096.",1,ambiguous_fraud
+"Cher client, une erreur de transfert de 1000 FCFA a été effectuée vers votre numéro. Renvoyez au +22670107574 SVP.",1,error_transfer
+Un virement en attente de validation. Confirmez en appelant le +22678114892.,1,ambiguous_fraud
+MOOV MONEY - Consultation solde: 147420 FCFA disponibles sur votre compte.,0,legitimate
+Information importante: votre numero +22663901677 a ete enregistre. Confirmez.,1,ambiguous_fraud
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+Votre solde Orange Money est de 123335 FCFA au 08/12/2026 a 10:48.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22669245121 et gagnez 100000 FCFA immédiatement!,1,fake_promotion
+ORANGE MONEY: Retrait de 25000 FCFA confirme. Nouveau solde: 45622 FCFA. Ref: BF707015982.,0,legitimate
+MOOV MONEY: Vous avez retire 25000 FCFA. Solde disponible: 30256 FCFA.,0,legitimate
+Recharge de 2000 FCFA creditee sur votre compte. Nouveau solde: 16574 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Paiement de 1000 FCFA effectue chez BOULANGERIE Moderne. Solde: 36638 FCFA. Ref: BF239011533.,0,legitimate
+ORANGE MONEY: Transfert reçu de 1000 FCFA. Expediteur: Awa. Solde: 18471 FCFA. Ref: BF758329654.,0,legitimate
+MOOV MONEY: Vous avez recu 1000 FCFA de Drissa. Votre solde est maintenant de 17637 FCFA. ID: BF946254966.,0,legitimate
+PROMO ORANGE: Les 58 premiers clients reçoivent 50000 FCFA gratuit! Envoyez 2000 FCFA d'inscription au +22677359535.,1,fake_promotion
+"Excusez-moi, j'ai fait une erreur de transfert de 500 FCFA sur votre compte. Merci de retourner l'argent au +22666517568.",1,error_transfer
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22675218548 pour renouveler votre accès.,1,fake_operator
+Transaction recue: +5000 FCFA de Souleymane (+22674804892). Solde actuel: 24102 FCFA.,0,legitimate
+Moov Burkina vous informe que vous avez gagné 25000 FCFA lors de notre loterie. Appelez le +22660992919 pour réclamer.,1,lottery_scam
+ORANGE MONEY: Retrait de 25000 FCFA confirme. Nouveau solde: 22205 FCFA. Ref: BF548066320.,0,legitimate
+MOOV MONEY: Envoi de 10000 FCFA a Awa confirme. Solde: 31931 FCFA. Ref: BF438600887.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22666904098 pour renouveler votre accès.,1,fake_operator
+Credit de 5000 FCFA effectue. Solde Orange Money: 7073 FCFA. Ref: BF993003636.,0,legitimate
+Credit de 2000 FCFA effectue. Solde Orange Money: 19009 FCFA. Ref: BF835688469.,0,legitimate
+"[PROMOTION] Votre numéro a remporté 2000 FCFA! Pour recevoir, envoyez 2000 FCFA de frais au +22669615895.",1,lottery_scam
+Vous avez reçu 10000 FCFA de Aminata. Nouveau solde: 32525 FCFA. Ref: BF496068382. Le 09/09/2026 a 08:38.,0,legitimate
+Votre transfert de 5000 FCFA a +22679132826 a ete effectue avec succes. Solde restant: 25859 FCFA.,0,legitimate
+Message urgent de votre operateur. Rappel au +22661461996 necessaire.,1,ambiguous_fraud
+Orange Money: Votre virement vers Aminata du 08/11/2026 a ete confirme par le beneficiaire.,0,legitimate
+MOOV MONEY fête ses 11 ans! Recevez 50000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22676529161.,1,fake_promotion
+Transfert de 5000 FCFA a Rokia (+22666469209) effectue. Solde: 38379 FCFA. Ref: BF482773059.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 200000 FCFA. Appelez maintenant le +22670340134.,1,lottery_scam
+Paiement de 500 FCFA effectue chez LIBRAIRIE Jeunesse. Solde: 3464 FCFA. Ref: BF321222848.,0,legitimate
+MOOV MONEY: Envoi de 5000 FCFA a Fatoumata confirme. Solde: 23890 FCFA. Ref: BF480848036.,0,legitimate
+ORANGE MONEY: Retrait de 200000 FCFA confirme. Nouveau solde: 7468 FCFA. Ref: BF136009935.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22664330787 immédiatement pour bloquer.,1,fake_operator
+"Cher client, votre numéro figure parmi les 4 gagnants du jour. Prix: 5000 FCFA. Appelez +22661588508.",1,lottery_scam
+Moov Burkina vous informe que vous avez gagné 5000 FCFA lors de notre loterie. Appelez le +22671466317 pour réclamer.,1,lottery_scam
+ORANGE MONEY: Transfert reçu de 500 FCFA. Expediteur: Souleymane. Solde: 21936 FCFA. Ref: BF455446264.,0,legitimate
+Moov Burkina vous informe que vous avez gagné 100000 FCFA lors de notre loterie. Appelez le +22668693071 pour réclamer.,1,lottery_scam
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+"[ORANGE BURKINA] Pour recevoir votre bonus de 50000 FCFA, communiquez votre code PIN au +22678251695.",1,pin_request
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 200000 FCFA. Appelez maintenant le +22667384220.,1,lottery_scam
+Orange Money: Solde 26574 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Votre transfert de 500 FCFA a +22676868959 a ete effectue avec succes. Solde restant: 40920 FCFA.,0,legitimate
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22665423668.",1,ambiguous_fraud
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22679197770 pour sécuriser votre argent.,1,fake_operator
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22674606545 et gagnez 100000 FCFA immédiatement!,1,fake_promotion
+Transaction recue: +25000 FCFA de Aissata (+22663712859). Solde actuel: 67703 FCFA.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22672895284 pour continuer.,1,pin_request
+ORANGE MONEY: Retrait de 25000 FCFA confirme. Nouveau solde: 35729 FCFA. Ref: BF156361762.,0,legitimate
+"Désolé, mauvaise manipulation. 5000 FCFA envoyés par erreur. Merci de renvoyer au +22668475351. C'est urgent.",1,error_transfer
+"Monsieur/Madame, j'ai accidentellement envoyé 100000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22673503472.",1,error_transfer
+Félicitations! Vous avez été sélectionné(e) et avez gagné 5000 FCFA. Appelez le +22672113083 pour réclamer votre prix.,1,lottery_scam
+MOOV MONEY: Vous avez recu 1000 FCFA de Aminata. Votre solde est maintenant de 36119 FCFA. ID: BF681172939.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 1000 FCFA sur votre compte. Merci de retourner l'argent au +22660800280.",1,error_transfer
+Paiement de 25000 FCFA effectue chez PHARMACIE du Peuple. Solde: 22767 FCFA. Ref: BF497250289.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22675962458.",1,pin_request
+Retrait de 500 FCFA effectue. Solde: 32282 FCFA. Agent: Kadiatou. Ref: BF838492458.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22668496149 pour débloquer le transfert international.,1,pin_request
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 25000 FCFA. Appelez le +22673987599 MAINTENANT.,1,lottery_scam
+ORANGE MONEY: Achat de 500 FCFA chez BOUTIQUE Wend-Yam confirme. Nouveau solde: 35878 FCFA.,0,legitimate
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 6449 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"Cher client, une erreur de transfert de 1000 FCFA a été effectuée vers votre numéro. Renvoyez au +22660213000 SVP.",1,error_transfer
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22662391773 d'urgence.,1,fake_operator
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+MOOV MONEY fête ses 12 ans! Recevez 500 FCFA. Frais d'activation: 2000 FCFA à envoyer au +22669940886.,1,fake_promotion
+Transaction marchande: -5000 FCFA (SUPERMARCHE Score). Solde restant: 41478 FCFA.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22677237064 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+Un virement en attente de validation. Confirmez en appelant le +22660546688.,1,ambiguous_fraud
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22661366893 d'urgence.,1,fake_operator
+"Excusez-moi, j'ai fait une erreur de transfert de 5000 FCFA sur votre compte. Merci de retourner l'argent au +22665838247.",1,error_transfer
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22667596520 pour renouveler votre accès.,1,fake_operator
+PROMO ORANGE: Les 35 premiers clients reçoivent 5000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22663453729.,1,fake_promotion
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+ORANGE MONEY: 1000 FCFA envoyes a Wendpanga. Frais: 10 FCFA. Nouveau solde: 45590 FCFA.,0,legitimate
+PROMO ORANGE: Les 18 premiers clients reçoivent 2000 FCFA gratuit! Envoyez 1000 FCFA d'inscription au +22673387198.,1,fake_promotion
+Service client: un remboursement de 200000 FCFA vous attend. Contactez +22670478638.,1,ambiguous_fraud
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 25000 FCFA! Contactez notre agent au +22677392004 dans les 24h.,1,lottery_scam
+Votre solde Orange Money est de 49342 FCFA au 09/06/2026 a 15:49.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22667894993 et gagnez 10000 FCFA immédiatement!,1,fake_promotion
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Investissement garanti! Envoyez 1000 FCFA au +22667827250 et recevez 1000 FCFA dans les 2 heures.,1,fake_promotion
+Paiement de 500 FCFA effectue chez SUPERMARCHE Score. Solde: 47867 FCFA. Ref: BF633302455.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 500 FCFA au +22677141814 et recevez 500 FCFA sur votre compte.,1,fake_promotion
+"Cher client, votre situation necessite une verification. Appelez +22673385898.",1,ambiguous_fraud
+Paiement de 25000 FCFA effectue chez STATION Shell. Solde: 5039 FCFA. Ref: BF438589714.,0,legitimate
+Investissement garanti! Envoyez 1000 FCFA au +22660199096 et recevez 2000 FCFA dans les 2 heures.,1,fake_promotion
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 50000 FCFA. Appelez maintenant le +22663544150.,1,lottery_scam
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Vous avez reçu 1000 FCFA de Fatoumata. Nouveau solde: 36719 FCFA. Ref: BF884239926. Le 06/12/2026 a 11:15.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22663731792.,1,ambiguous_fraud
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22676971783.,1,pin_request
+Solde disponible: 126741 FCFA. Derniere operation le 18/11/2026. Composez *144# pour plus d'options.,0,legitimate
+ORANGE MONEY: Achat de 1000 FCFA chez LIBRAIRIE Jeunesse confirme. Nouveau solde: 38114 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 2000 FCFA confirme. Nouveau solde: 38469 FCFA. Ref: BF903090102.,0,legitimate
+Transfert de 10000 FCFA a Bintou (+22677861593) effectue. Solde: 13702 FCFA. Ref: BF937549705.,0,legitimate
+PROMO ORANGE: Les 49 premiers clients reçoivent 100000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22660602171.,1,fake_promotion
+VERIFICATION MOOV: Envoyez votre code secret au +22671446290 pour débloquer le transfert international.,1,pin_request
+MOOV MONEY - Consultation solde: 92958 FCFA disponibles sur votre compte.,0,legitimate
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22668859489.",1,ambiguous_fraud
+MOOV MONEY - Consultation solde: 140870 FCFA disponibles sur votre compte.,0,legitimate
+Vous avez reçu 500 FCFA de Kadiatou. Nouveau solde: 11528 FCFA. Ref: BF229959717. Le 17/02/2026 a 11:13.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22672922781 pour renouveler votre accès.,1,fake_operator
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 22325 FCFA.,0,legitimate
+MOOV MONEY: Vous avez retire 1000 FCFA. Solde disponible: 22318 FCFA.,0,legitimate
+Recharge de 10000 FCFA creditee sur votre compte. Nouveau solde: 13987 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22672709184.",1,pin_request
+Votre solde Orange Money est de 141506 FCFA au 12/08/2026 a 12:07.,0,legitimate
+MOOV MONEY fête ses 19 ans! Recevez 5000 FCFA. Frais d'activation: 2000 FCFA à envoyer au +22674407645.,1,fake_promotion
+Paiement de 2000 FCFA effectue chez QUINCAILLERIE du Centre. Solde: 38251 FCFA. Ref: BF932577261.,0,legitimate
+MOOV MONEY: Vous avez retire 5000 FCFA. Solde disponible: 24326 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 25000 FCFA de Aminata. Votre solde est maintenant de 43205 FCFA. ID: BF694095087.,0,legitimate
+Transaction recue: +10000 FCFA de Aminata (+22669235715). Solde actuel: 52386 FCFA.,0,legitimate
+"Bonjour, j'ai envoyé 25000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22668856157. Merci.",1,error_transfer
+Message urgent de votre operateur. Rappel au +22678982442 necessaire.,1,ambiguous_fraud
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22678456855 immédiatement pour bloquer.,1,fake_operator
+Transaction marchande: -2000 FCFA (PHARMACIE du Peuple). Solde restant: 9895 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 20672 FCFA.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 25000 FCFA sur votre compte. Merci de retourner l'argent au +22679827143.",1,error_transfer
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22675849666 et gagnez 5000 FCFA immédiatement!,1,fake_promotion
+Notification: une action est requise sur votre compte. Details au +22664957939.,1,ambiguous_fraud
+MOOV MONEY - Consultation solde: 27974 FCFA disponibles sur votre compte.,0,legitimate
+ORANGE MONEY: Retrait de 5000 FCFA confirme. Nouveau solde: 22771 FCFA. Ref: BF148993264.,0,legitimate
+MOOV MONEY: Vous avez retire 500 FCFA. Solde disponible: 37438 FCFA.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22677109363 pour valider votre compte.,1,pin_request
+Transaction marchande: -5000 FCFA (QUINCAILLERIE du Centre). Solde restant: 709 FCFA.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22668118397 pour renouveler votre accès.,1,fake_operator
+ORANGE MONEY: Achat de 25000 FCFA chez QUINCAILLERIE du Centre confirme. Nouveau solde: 35853 FCFA.,0,legitimate
+Credit de 500 FCFA effectue. Solde Orange Money: 19476 FCFA. Ref: BF754984346.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22663581037 pour valider votre compte.,1,pin_request
+"Cher client, votre numéro figure parmi les 7 gagnants du jour. Prix: 25000 FCFA. Appelez +22668961240.",1,lottery_scam
+"Cher client, une erreur de transfert de 100000 FCFA a été effectuée vers votre numéro. Renvoyez au +22671343923 SVP.",1,error_transfer
+Credit de 500 FCFA effectue. Solde Orange Money: 6614 FCFA. Ref: BF123745996.,0,legitimate
+Investissement garanti! Envoyez 500 FCFA au +22660557592 et recevez 25000 FCFA dans les 2 heures.,1,fake_promotion
+"Bonjour, votre demande de service est approuvee. Contactez le +22666579123.",1,ambiguous_fraud
+"Cher client, une erreur de transfert de 10000 FCFA a été effectuée vers votre numéro. Renvoyez au +22679313910 SVP.",1,error_transfer
+Transfert de 1000 FCFA a Ibrahim (+22672104027) effectue. Solde: 13161 FCFA. Ref: BF564897319.,0,legitimate
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+Paiement de 100000 FCFA effectue chez BOULANGERIE Moderne. Solde: 43836 FCFA. Ref: BF401229255.,0,legitimate
+MOOV MONEY: Envoi de 500 FCFA a Boubacar confirme. Solde: 10211 FCFA. Ref: BF298969036.,0,legitimate
+MOOV MONEY - Consultation solde: 189661 FCFA disponibles sur votre compte.,0,legitimate
+"Bonjour, j'ai envoyé 5000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22672454508. Merci.",1,error_transfer
+"Excusez-moi, j'ai fait une erreur de transfert de 50000 FCFA sur votre compte. Merci de retourner l'argent au +22661211726.",1,error_transfer
+"Cher client, votre numéro figure parmi les 3 gagnants du jour. Prix: 500 FCFA. Appelez +22673876487.",1,lottery_scam
+Votre dossier est en attente. Appelez le +22667110195 pour finaliser.,1,ambiguous_fraud
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22670989079 pour confirmer votre identité.,1,fake_operator
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22661299742 pour continuer.,1,pin_request
+Vous etes eligible a une offre speciale. Renseignements au +22678712955.,1,ambiguous_fraud
+Solde disponible: 59178 FCFA. Derniere operation le 06/07/2026. Composez *144# pour plus d'options.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 500 FCFA. Solde: 5568 FCFA.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22677935762 pour confirmer votre identité.,1,fake_operator
+VERIFICATION MOOV: Envoyez votre code secret au +22662304061 pour débloquer le transfert international.,1,pin_request
+Votre demande a ete traitee. Contactez le +22667404899 pour confirmation.,1,ambiguous_fraud
+"Désolé, mauvaise manipulation. 500 FCFA envoyés par erreur. Merci de renvoyer au +22678795186. C'est urgent.",1,error_transfer
+MOOV MONEY: Vous avez recu 500 FCFA de Rasmata. Votre solde est maintenant de 3538 FCFA. ID: BF810371538.,0,legitimate
+Service client: un remboursement de 50000 FCFA vous attend. Contactez +22664420704.,1,ambiguous_fraud
+"Cher client, votre numéro figure parmi les 7 gagnants du jour. Prix: 1000 FCFA. Appelez +22661260053.",1,lottery_scam
+"Monsieur/Madame, j'ai accidentellement envoyé 200000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22677436030.",1,error_transfer
+Votre solde Orange Money est de 145303 FCFA au 07/08/2026 a 12:17.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22674197429.,1,ambiguous_fraud
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 5000 FCFA. Appelez maintenant le +22674452497.,1,lottery_scam
+Félicitations! Vous avez été sélectionné(e) et avez gagné 100000 FCFA. Appelez le +22679833723 pour réclamer votre prix.,1,lottery_scam
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22666864605.,1,pin_request
+PROMO ORANGE: Les 90 premiers clients reçoivent 2000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22666141094.,1,fake_promotion
+Retrait de 25000 FCFA effectue. Solde: 17878 FCFA. Agent: Kadiatou. Ref: BF444749225.,0,legitimate
+Vous avez reçu 500 FCFA de Bintou. Nouveau solde: 50170 FCFA. Ref: BF749476211. Le 05/02/2026 a 17:50.,0,legitimate
+MOOV MONEY fête ses 7 ans! Recevez 1000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22667163182.,1,fake_promotion
+ORANGE MONEY: 5000 FCFA envoyes a Issaka. Frais: 50 FCFA. Nouveau solde: 33100 FCFA.,0,legitimate
+PROMO ORANGE: Les 14 premiers clients reçoivent 100000 FCFA gratuit! Envoyez 1000 FCFA d'inscription au +22677402099.,1,fake_promotion
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22672138669 avant minuit pour éviter la suspension.,1,fake_operator
+MOOV MONEY fête ses 8 ans! Recevez 50000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22676119857.,1,fake_promotion
+Credit de 10000 FCFA effectue. Solde Orange Money: 18498 FCFA. Ref: BF986450549.,0,legitimate
+"Désolé, mauvaise manipulation. 2000 FCFA envoyés par erreur. Merci de renvoyer au +22662990247. C'est urgent.",1,error_transfer
+Transaction marchande: -100000 FCFA (RESTAURANT La Terrasse). Solde restant: 14603 FCFA.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22664311740 pour valider votre compte.,1,pin_request
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Retrait de 500 FCFA effectue. Solde: 16616 FCFA. Agent: Oumarou. Ref: BF729581402.,0,legitimate
+Félicitations! Vous avez été sélectionné(e) et avez gagné 25000 FCFA. Appelez le +22667916344 pour réclamer votre prix.,1,lottery_scam
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22674315477.,1,ambiguous_fraud
+"Cher client, une erreur de transfert de 100000 FCFA a été effectuée vers votre numéro. Renvoyez au +22671797883 SVP.",1,error_transfer
+"[PROMOTION] Votre numéro a remporté 500 FCFA! Pour recevoir, envoyez 500 FCFA de frais au +22663191884.",1,lottery_scam
+Credit de 5000 FCFA effectue. Solde Orange Money: 11194 FCFA. Ref: BF608361362.,0,legitimate
+Transaction recue: +100000 FCFA de Issaka (+22673878896). Solde actuel: 140542 FCFA.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 200000 FCFA sur votre compte. Merci de retourner l'argent au +22674876909.",1,error_transfer
+Investissement garanti! Envoyez 2000 FCFA au +22675545405 et recevez 50000 FCFA dans les 2 heures.,1,fake_promotion
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22668461083.,1,pin_request
+Credit de 1000 FCFA effectue. Solde Orange Money: 8825 FCFA. Ref: BF825506692.,0,legitimate
+MOOV MONEY fête ses 7 ans! Recevez 5000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22667749079.,1,fake_promotion
+Transaction marchande: -25000 FCFA (BOULANGERIE Moderne). Solde restant: 29397 FCFA.,0,legitimate
+ORANGE MONEY: 5000 FCFA envoyes a Rokia. Frais: 50 FCFA. Nouveau solde: 5621 FCFA.,0,legitimate
+Votre solde Orange Money est de 167459 FCFA au 10/12/2026 a 17:18.,0,legitimate
+MOOV MONEY: Vous avez recu 100000 FCFA de Aissata. Votre solde est maintenant de 134948 FCFA. ID: BF707140225.,0,legitimate
+Vous avez reçu 200000 FCFA de Hamidou. Nouveau solde: 233634 FCFA. Ref: BF236488723. Le 17/01/2026 a 15:30.,0,legitimate
+Transaction marchande: -25000 FCFA (BOUTIQUE Wend-Yam). Solde restant: 46265 FCFA.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22664806215.,1,ambiguous_fraud
+Transaction recue: +200000 FCFA de Ibrahim (+22663396835). Solde actuel: 206075 FCFA.,0,legitimate
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22669989561 d'urgence.,1,fake_operator
+Solde disponible: 17438 FCFA. Derniere operation le 02/04/2026. Composez *144# pour plus d'options.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22674620438 pour renouveler votre accès.,1,fake_operator
+Transaction marchande: -200000 FCFA (PHARMACIE du Peuple). Solde restant: 44249 FCFA.,0,legitimate
+Moov Burkina vous informe que vous avez gagné 25000 FCFA lors de notre loterie. Appelez le +22666265080 pour réclamer.,1,lottery_scam
+Transfert de 500 FCFA a Mariam (+22678129974) effectue. Solde: 31202 FCFA. Ref: BF611359256.,0,legitimate
+Félicitations! Vous avez été sélectionné(e) et avez gagné 10000 FCFA. Appelez le +22675225245 pour réclamer votre prix.,1,lottery_scam
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22675820861 d'urgence.,1,fake_operator
+ORANGE MONEY: 1000 FCFA envoyes a Boubacar. Frais: 10 FCFA. Nouveau solde: 2074 FCFA.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+"[PROMOTION] Votre numéro a remporté 10000 FCFA! Pour recevoir, envoyez 2000 FCFA de frais au +22676829630.",1,lottery_scam
+Moov Burkina vous informe que vous avez gagné 50000 FCFA lors de notre loterie. Appelez le +22677941272 pour réclamer.,1,lottery_scam
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22665947228 pour valider votre compte.,1,pin_request
+Orange Money: Solde 180228 FCFA. Pour toute operation composez le *144#.,0,legitimate
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22662792829 avant minuit pour éviter la suspension.,1,fake_operator
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 25000 FCFA. Appelez le +22663650462 MAINTENANT.,1,lottery_scam
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22672424314 pour renouveler votre accès.,1,fake_operator
+Paiement de 500 FCFA effectue chez STATION Shell. Solde: 22975 FCFA. Ref: BF443213850.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+MOOV MONEY: Vous avez recu 50000 FCFA de Aminata. Votre solde est maintenant de 96826 FCFA. ID: BF141942442.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22661502692 pour débloquer le transfert international.,1,pin_request
+PROMO ORANGE: Les 24 premiers clients reçoivent 10000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22670238205.,1,fake_promotion
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22662834764 et gagnez 500 FCFA immédiatement!,1,fake_promotion
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22664290556 et gagnez 500 FCFA immédiatement!,1,fake_promotion
+MOOV MONEY: Vous avez retire 100000 FCFA. Solde disponible: 18647 FCFA.,0,legitimate
+MOOV MONEY fête ses 9 ans! Recevez 10000 FCFA. Frais d'activation: 2000 FCFA à envoyer au +22673513037.,1,fake_promotion
+Service client: un remboursement de 10000 FCFA vous attend. Contactez +22669789969.,1,ambiguous_fraud
+Transaction marchande: -500 FCFA (SUPERMARCHE Score). Solde restant: 11006 FCFA.,0,legitimate
+ORANGE MONEY: Achat de 2000 FCFA chez LIBRAIRIE Jeunesse confirme. Nouveau solde: 43730 FCFA.,0,legitimate
+"[PROMOTION] Votre numéro a remporté 2000 FCFA! Pour recevoir, envoyez 500 FCFA de frais au +22670193972.",1,lottery_scam
+"[ORANGE BURKINA] Pour recevoir votre bonus de 25000 FCFA, communiquez votre code PIN au +22678269833.",1,pin_request
+"Bonjour, j'ai envoyé 200000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22669926636. Merci.",1,error_transfer
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22666277193 avant minuit pour éviter la suspension.,1,fake_operator
+Transaction marchande: -1000 FCFA (LIBRAIRIE Jeunesse). Solde restant: 23727 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 10000 FCFA de Fatima. Votre solde est maintenant de 33489 FCFA. ID: BF829196781.,0,legitimate
+Vous avez reçu 200000 FCFA de Boubacar. Nouveau solde: 205290 FCFA. Ref: BF364379047. Le 12/03/2026 a 11:52.,0,legitimate
+ORANGE MONEY: Transfert reçu de 10000 FCFA. Expediteur: Salimata. Solde: 46628 FCFA. Ref: BF576249422.,0,legitimate
+Recharge de 2000 FCFA creditee sur votre compte. Nouveau solde: 17274 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+ORANGE MONEY: Achat de 5000 FCFA chez QUINCAILLERIE du Centre confirme. Nouveau solde: 48295 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 10000 FCFA de Wendpanga. Votre solde est maintenant de 19103 FCFA. ID: BF918605724.,0,legitimate
+Orange Money: Votre virement vers Seydou du 03/11/2026 a ete confirme par le beneficiaire.,0,legitimate
+Votre dossier est en attente. Appelez le +22667322167 pour finaliser.,1,ambiguous_fraud
+ORANGE MONEY: 10000 FCFA envoyes a Souleymane. Frais: 100 FCFA. Nouveau solde: 5247 FCFA.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22676399176 pour le débloquer.,1,fake_operator
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 50000 FCFA. Appelez le +22675615353 MAINTENANT.,1,lottery_scam
+MOOV MONEY - Consultation solde: 52347 FCFA disponibles sur votre compte.,0,legitimate
+ORANGE MONEY: Achat de 50000 FCFA chez SUPERMARCHE Score confirme. Nouveau solde: 48478 FCFA.,0,legitimate
+Investissement garanti! Envoyez 500 FCFA au +22673367747 et recevez 500 FCFA dans les 2 heures.,1,fake_promotion
+Solde disponible: 84058 FCFA. Derniere operation le 14/04/2026. Composez *144# pour plus d'options.,0,legitimate
+MOOV MONEY - Consultation solde: 174923 FCFA disponibles sur votre compte.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22671856254 immédiatement pour bloquer.,1,fake_operator
+"Désolé, mauvaise manipulation. 500 FCFA envoyés par erreur. Merci de renvoyer au +22663578180. C'est urgent.",1,error_transfer
+ORANGE MONEY: Transfert reçu de 500 FCFA. Expediteur: Mariam. Solde: 2812 FCFA. Ref: BF403965278.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 5000 FCFA. Appelez le +22674455488 MAINTENANT.,1,lottery_scam
+Moov Burkina vous informe que vous avez gagné 200000 FCFA lors de notre loterie. Appelez le +22677848225 pour réclamer.,1,lottery_scam
+Retrait de 1000 FCFA effectue. Solde: 28834 FCFA. Agent: Oumarou. Ref: BF783111510.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 25000 FCFA. Appelez maintenant le +22666916656.,1,lottery_scam
+Message urgent de votre operateur. Rappel au +22667527066 necessaire.,1,ambiguous_fraud
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22672862760 pour le débloquer.,1,fake_operator
+Service client: un remboursement de 500 FCFA vous attend. Contactez +22667308496.,1,ambiguous_fraud
+Recharge de 500 FCFA creditee sur votre compte. Nouveau solde: 14596 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 10000 FCFA. Solde: 12385 FCFA.,0,legitimate
+Transaction marchande: -50000 FCFA (RESTAURANT La Terrasse). Solde restant: 48403 FCFA.,0,legitimate
+"[ORANGE BURKINA] Pour recevoir votre bonus de 10000 FCFA, communiquez votre code PIN au +22669947458.",1,pin_request
+Orange Money: Solde 50163 FCFA. Pour toute operation composez le *144#.,0,legitimate
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 2000 FCFA! Contactez notre agent au +22663562139 dans les 24h.,1,lottery_scam
+"Cher client, une erreur de transfert de 100000 FCFA a été effectuée vers votre numéro. Renvoyez au +22667950965 SVP.",1,error_transfer
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22662497687.",1,ambiguous_fraud
+Orange Money: Votre virement vers Moussa du 20/01/2026 a ete confirme par le beneficiaire.,0,legitimate
+Credit de 2000 FCFA effectue. Solde Orange Money: 8613 FCFA. Ref: BF357399415.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22661744718 pour sécuriser votre argent.,1,fake_operator
+Votre transfert de 50000 FCFA a +22668922378 a ete effectue avec succes. Solde restant: 16136 FCFA.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22673409783 pour sécuriser votre argent.,1,fake_operator
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22674182423 pour sécuriser votre argent.,1,fake_operator
+Solde disponible: 176658 FCFA. Derniere operation le 19/12/2026. Composez *144# pour plus d'options.,0,legitimate
+MOOV MONEY: Envoi de 10000 FCFA a Rasmata confirme. Solde: 17997 FCFA. Ref: BF474584710.,0,legitimate
+ORANGE MONEY: Achat de 5000 FCFA chez BOULANGERIE Moderne confirme. Nouveau solde: 16824 FCFA.,0,legitimate
+Paiement de 5000 FCFA effectue chez BOUTIQUE Wend-Yam. Solde: 17422 FCFA. Ref: BF602176380.,0,legitimate
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22670624078.,1,pin_request
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22670287567 pour valider votre compte.,1,pin_request
+Transaction marchande: -50000 FCFA (STATION Shell). Solde restant: 5739 FCFA.,0,legitimate
+Vous avez gagné un prix de 100000 FCFA. Envoyez 1000 FCFA pour les frais d'activation au +22669819517.,1,lottery_scam
+ORANGE MONEY: Achat de 100000 FCFA chez BOULANGERIE Moderne confirme. Nouveau solde: 43701 FCFA.,0,legitimate
+MOOV MONEY fête ses 7 ans! Recevez 10000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22660389913.,1,fake_promotion
+Votre solde Orange Money est de 198234 FCFA au 06/02/2026 a 08:04.,0,legitimate
+Retrait de 100000 FCFA effectue. Solde: 19577 FCFA. Agent: Salimata. Ref: BF661394434.,0,legitimate
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22678680189 avant minuit pour éviter la suspension.,1,fake_operator
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22668128206 pour sécuriser votre argent.,1,fake_operator
+ORANGE MONEY: Transfert reçu de 25000 FCFA. Expediteur: Ibrahim. Solde: 59254 FCFA. Ref: BF956757726.,0,legitimate
+MOOV MONEY - Consultation solde: 192507 FCFA disponibles sur votre compte.,0,legitimate
+"Désolé, mauvaise manipulation. 5000 FCFA envoyés par erreur. Merci de renvoyer au +22677153231. C'est urgent.",1,error_transfer
+MOOV MONEY fête ses 11 ans! Recevez 5000 FCFA. Frais d'activation: 2000 FCFA à envoyer au +22667503277.,1,fake_promotion
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 100000 FCFA. Appelez le +22662299869 MAINTENANT.,1,lottery_scam
+Paiement de 2000 FCFA effectue chez STATION Shell. Solde: 15911 FCFA. Ref: BF488995663.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22660586041.",1,pin_request
+Credit de 5000 FCFA effectue. Solde Orange Money: 6468 FCFA. Ref: BF267396883.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 500 FCFA. Appelez maintenant le +22678269430.,1,lottery_scam
+MOOV MONEY: Vous avez recu 50000 FCFA de Wendpanga. Votre solde est maintenant de 78108 FCFA. ID: BF923695925.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22661570103 pour débloquer le transfert international.,1,pin_request
+"Désolé, mauvaise manipulation. 100000 FCFA envoyés par erreur. Merci de renvoyer au +22664286044. C'est urgent.",1,error_transfer
+Votre transfert de 5000 FCFA a +22668645172 a ete effectue avec succes. Solde restant: 17427 FCFA.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22672958747 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 25000 FCFA sur votre compte. Merci de retourner l'argent au +22665892170.",1,error_transfer
+"Bonjour, j'ai envoyé 25000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22675665579. Merci.",1,error_transfer
+Credit de 1000 FCFA effectue. Solde Orange Money: 14484 FCFA. Ref: BF331073681.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+Notification: une action est requise sur votre compte. Details au +22677898462.,1,ambiguous_fraud
+Transaction marchande: -25000 FCFA (QUINCAILLERIE du Centre). Solde restant: 37449 FCFA.,0,legitimate
+ORANGE MONEY: Achat de 5000 FCFA chez RESTAURANT La Terrasse confirme. Nouveau solde: 46518 FCFA.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 200000 FCFA. Appelez le +22661196955 MAINTENANT.,1,lottery_scam
+MOOV MONEY: Votre compte a ete rechargé de 1000 FCFA. Solde: 18124 FCFA.,0,legitimate
+Solde disponible: 65695 FCFA. Derniere operation le 15/12/2026. Composez *144# pour plus d'options.,0,legitimate
+Votre dossier est en attente. Appelez le +22666741804 pour finaliser.,1,ambiguous_fraud
+Transaction recue: +2000 FCFA de Rokia (+22673147371). Solde actuel: 47512 FCFA.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22671961545 pour le débloquer.,1,fake_operator
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22678893041.",1,pin_request
+Paiement de 1000 FCFA effectue chez BOUTIQUE Wend-Yam. Solde: 19558 FCFA. Ref: BF134506505.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22665726543 pour continuer.,1,pin_request
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+Transfert de 25000 FCFA a Marcelline (+22660248845) effectue. Solde: 28059 FCFA. Ref: BF360992998.,0,legitimate
+Credit de 2000 FCFA effectue. Solde Orange Money: 4140 FCFA. Ref: BF743523776.,0,legitimate
+Paiement de 2000 FCFA effectue chez PHARMACIE du Peuple. Solde: 34152 FCFA. Ref: BF716247535.,0,legitimate
+PROMO ORANGE: Les 78 premiers clients reçoivent 50000 FCFA gratuit! Envoyez 2000 FCFA d'inscription au +22679988459.,1,fake_promotion
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22678326130 avant minuit pour éviter la suspension.,1,fake_operator
+ORANGE MONEY: 10000 FCFA envoyes a Drissa. Frais: 100 FCFA. Nouveau solde: 15607 FCFA.,0,legitimate
+Votre dossier est en attente. Appelez le +22674194511 pour finaliser.,1,ambiguous_fraud
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 1000 FCFA. Appelez le +22666409222 MAINTENANT.,1,lottery_scam
+ORANGE MONEY: Transfert reçu de 1000 FCFA. Expediteur: Kadiatou. Solde: 3680 FCFA. Ref: BF859753852.,0,legitimate
+PROMO ORANGE: Les 31 premiers clients reçoivent 5000 FCFA gratuit! Envoyez 1000 FCFA d'inscription au +22663365154.,1,fake_promotion
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22661672896 pour valider votre compte.,1,pin_request
+Retrait de 5000 FCFA effectue. Solde: 49482 FCFA. Agent: Awa. Ref: BF242522920.,0,legitimate
+Transaction marchande: -100000 FCFA (LIBRAIRIE Jeunesse). Solde restant: 32991 FCFA.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 2000 FCFA au +22660350280 et recevez 500 FCFA sur votre compte.,1,fake_promotion
+"Bonsoir, je me suis trompé de numéro en envoyant 50000 FCFA. Pouvez-vous me renvoyer cet argent au +22666492073? Urgent.",1,error_transfer
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22667354533.",1,pin_request
+Retrait de 5000 FCFA effectue. Solde: 17885 FCFA. Agent: Rokia. Ref: BF262600063.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22669944264 pour le débloquer.,1,fake_operator
+ORANGE MONEY: Retrait de 1000 FCFA confirme. Nouveau solde: 40059 FCFA. Ref: BF500318129.,0,legitimate
+"Bonjour, j'ai envoyé 5000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22679721314. Merci.",1,error_transfer
+MOOV MONEY: Vous avez retire 100000 FCFA. Solde disponible: 42615 FCFA.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+PROMO ORANGE: Les 70 premiers clients reçoivent 100000 FCFA gratuit! Envoyez 1000 FCFA d'inscription au +22673559450.,1,fake_promotion
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Orange Money: Solde 79813 FCFA. Pour toute operation composez le *144#.,0,legitimate
+ORANGE MONEY: Achat de 5000 FCFA chez RESTAURANT La Terrasse confirme. Nouveau solde: 27213 FCFA.,0,legitimate
+Votre solde Orange Money est de 26052 FCFA au 28/09/2026 a 12:54.,0,legitimate
+MOOV MONEY - Consultation solde: 1824 FCFA disponibles sur votre compte.,0,legitimate
+Credit de 5000 FCFA effectue. Solde Orange Money: 8647 FCFA. Ref: BF248831220.,0,legitimate
+Retrait de 5000 FCFA effectue. Solde: 16885 FCFA. Agent: Oumarou. Ref: BF547011930.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 200000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22667376864.",1,error_transfer
+"Bonsoir, je me suis trompé de numéro en envoyant 5000 FCFA. Pouvez-vous me renvoyer cet argent au +22666715517? Urgent.",1,error_transfer
+"Désolé, mauvaise manipulation. 1000 FCFA envoyés par erreur. Merci de renvoyer au +22665145649. C'est urgent.",1,error_transfer
+PROMO ORANGE: Les 15 premiers clients reçoivent 25000 FCFA gratuit! Envoyez 2000 FCFA d'inscription au +22664672892.,1,fake_promotion
+"Bonjour, j'ai envoyé 100000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22673228125. Merci.",1,error_transfer
+Orange Money: Votre virement vers Wendpanga du 05/02/2026 a ete confirme par le beneficiaire.,0,legitimate
+"Bonjour, j'ai envoyé 25000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22671799080. Merci.",1,error_transfer
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 50000 FCFA. Appelez maintenant le +22666612295.,1,lottery_scam
+Transaction recue: +2000 FCFA de Hamidou (+22676364760). Solde actuel: 24047 FCFA.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 25000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22660229620.",1,error_transfer
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 25000 FCFA. Appelez maintenant le +22668978721.,1,lottery_scam
+Votre transfert de 2000 FCFA a +22670561929 a ete effectue avec succes. Solde restant: 42105 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 2000 FCFA confirme. Nouveau solde: 5285 FCFA. Ref: BF668341938.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22672362865 pour le débloquer.,1,fake_operator
+"Bonjour, j'ai envoyé 500 FCFA sur votre numéro par erreur. Merci de me rembourser au +22667326667. Merci.",1,error_transfer
+"Monsieur/Madame, j'ai accidentellement envoyé 100000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22665791423.",1,error_transfer
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 4290 FCFA.,0,legitimate
+Vous avez reçu 50000 FCFA de Bintou. Nouveau solde: 84950 FCFA. Ref: BF118749474. Le 20/12/2026 a 10:46.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 500 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22665116495.",1,error_transfer
+Vérification requise. Envoyez votre code PIN Mobile Money au +22671879930 pour continuer.,1,pin_request
+Félicitations! Vous avez été sélectionné(e) et avez gagné 5000 FCFA. Appelez le +22664466566 pour réclamer votre prix.,1,lottery_scam
+VERIFICATION MOOV: Envoyez votre code secret au +22677320073 pour débloquer le transfert international.,1,pin_request
+"Cher client, votre situation necessite une verification. Appelez +22678599687.",1,ambiguous_fraud
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22665766371 avant minuit pour éviter la suspension.,1,fake_operator
+Retrait de 1000 FCFA effectue. Solde: 4783 FCFA. Agent: Ibrahim. Ref: BF123049022.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22675971728 pour renouveler votre accès.,1,fake_operator
+Votre transfert de 25000 FCFA a +22661490032 a ete effectue avec succes. Solde restant: 29140 FCFA.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 1000 FCFA. Pouvez-vous me renvoyer cet argent au +22668326441? Urgent.",1,error_transfer
+MOOV MONEY fête ses 20 ans! Recevez 1000 FCFA. Frais d'activation: 2000 FCFA à envoyer au +22671194930.,1,fake_promotion
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22674269087 immédiatement pour bloquer.,1,fake_operator
+MOOV MONEY fête ses 14 ans! Recevez 2000 FCFA. Frais d'activation: 500 FCFA à envoyer au +22678667915.,1,fake_promotion
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22664288627.",1,pin_request
+Vous avez reçu 10000 FCFA de Issaka. Nouveau solde: 40167 FCFA. Ref: BF882487451. Le 19/03/2026 a 09:03.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 5000 FCFA. Appelez le +22677258975 MAINTENANT.,1,lottery_scam
+Votre transfert de 5000 FCFA a +22673230120 a ete effectue avec succes. Solde restant: 4254 FCFA.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22662967949 pour le débloquer.,1,fake_operator
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22675890645 pour le débloquer.,1,fake_operator
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22674781301 pour valider votre compte.,1,pin_request
+Solde disponible: 88842 FCFA. Derniere operation le 06/03/2026. Composez *144# pour plus d'options.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22675953266 pour sécuriser votre argent.,1,fake_operator
+ORANGE MONEY: 100000 FCFA envoyes a Hamidou. Frais: 1000 FCFA. Nouveau solde: 40125 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 1000 FCFA confirme. Nouveau solde: 21937 FCFA. Ref: BF460065542.,0,legitimate
+Credit de 2000 FCFA effectue. Solde Orange Money: 6676 FCFA. Ref: BF531985132.,0,legitimate
+Orange Money: Solde 35503 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22676179688 pour valider votre compte.,1,pin_request
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+Transfert de 10000 FCFA a Mariam (+22668761875) effectue. Solde: 1664 FCFA. Ref: BF751390692.,0,legitimate
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+MOOV MONEY: Envoi de 25000 FCFA a Awa confirme. Solde: 19564 FCFA. Ref: BF311234451.,0,legitimate
+Votre dossier est en attente. Appelez le +22664355709 pour finaliser.,1,ambiguous_fraud
+Orange Money: Solde 69078 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Un virement en attente de validation. Confirmez en appelant le +22666759580.,1,ambiguous_fraud
+Solde disponible: 113670 FCFA. Derniere operation le 05/06/2026. Composez *144# pour plus d'options.,0,legitimate
+"[PROMOTION] Votre numéro a remporté 500 FCFA! Pour recevoir, envoyez 1000 FCFA de frais au +22665219629.",1,lottery_scam
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Transfert de 200000 FCFA a Kadiatou (+22665874992) effectue. Solde: 46906 FCFA. Ref: BF427839350.,0,legitimate
+MOOV MONEY: Vous avez retire 25000 FCFA. Solde disponible: 34944 FCFA.,0,legitimate
+Orange Money Service: Veuillez confirmer votre identité en envoyant votre code PIN au +22677288301 pour valider votre compte.,1,pin_request
+Vérification requise. Envoyez votre code PIN Mobile Money au +22679289430 pour continuer.,1,pin_request
+MOOV MONEY fête ses 10 ans! Recevez 200000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22672716735.,1,fake_promotion
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22675540073 et gagnez 5000 FCFA immédiatement!,1,fake_promotion
+"Cher client, votre situation necessite une verification. Appelez +22660531690.",1,ambiguous_fraud
+"Bonjour, j'ai envoyé 100000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22662166052. Merci.",1,error_transfer
+ORANGE MONEY: Retrait de 25000 FCFA confirme. Nouveau solde: 30612 FCFA. Ref: BF250366052.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22660867979 pour continuer.,1,pin_request
+Paiement de 50000 FCFA effectue chez TOTAL Ouagadougou. Solde: 7655 FCFA. Ref: BF794007506.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22665588640 et gagnez 25000 FCFA immédiatement!,1,fake_promotion
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22668868844 et gagnez 10000 FCFA immédiatement!,1,fake_promotion
+ORANGE MONEY: Transfert reçu de 10000 FCFA. Expediteur: Drissa. Solde: 30414 FCFA. Ref: BF889488302.,0,legitimate
+Transaction marchande: -1000 FCFA (RESTAURANT La Terrasse). Solde restant: 29221 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 1000 FCFA. Solde: 7048 FCFA.,0,legitimate
+Retrait de 25000 FCFA effectue. Solde: 30507 FCFA. Agent: Issaka. Ref: BF746191764.,0,legitimate
+ORANGE MONEY: Retrait de 200000 FCFA confirme. Nouveau solde: 24695 FCFA. Ref: BF906227124.,0,legitimate
+Transfert de 10000 FCFA a Fatoumata (+22670568472) effectue. Solde: 24388 FCFA. Ref: BF448571549.,0,legitimate
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22665210665 avant minuit pour éviter la suspension.,1,fake_operator
+"Bonjour, j'ai envoyé 2000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22666295937. Merci.",1,error_transfer
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Transfert de 2000 FCFA a Kadiatou (+22673781570) effectue. Solde: 19239 FCFA. Ref: BF311465082.,0,legitimate
+Transaction marchande: -5000 FCFA (STATION Shell). Solde restant: 47160 FCFA.,0,legitimate
+Paiement de 50000 FCFA effectue chez PHARMACIE du Peuple. Solde: 35503 FCFA. Ref: BF472445806.,0,legitimate
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 100000 FCFA! Contactez notre agent au +22670139673 dans les 24h.,1,lottery_scam
+"Bonsoir, je me suis trompé de numéro en envoyant 200000 FCFA. Pouvez-vous me renvoyer cet argent au +22660766023? Urgent.",1,error_transfer
+ORANGE MONEY: Achat de 10000 FCFA chez RESTAURANT La Terrasse confirme. Nouveau solde: 36274 FCFA.,0,legitimate
+Votre transfert de 2000 FCFA a +22663450281 a ete effectue avec succes. Solde restant: 22768 FCFA.,0,legitimate
+Solde disponible: 164835 FCFA. Derniere operation le 17/03/2026. Composez *144# pour plus d'options.,0,legitimate
+ORANGE MONEY TIRAGE: Vous êtes le gagnant de 10000 FCFA! Contactez notre agent au +22663370328 dans les 24h.,1,lottery_scam
+Transaction marchande: -1000 FCFA (BOUTIQUE Wend-Yam). Solde restant: 15683 FCFA.,0,legitimate
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+MOOV MONEY: Envoi de 50000 FCFA a Awa confirme. Solde: 28528 FCFA. Ref: BF178256125.,0,legitimate
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22672625119.",1,ambiguous_fraud
+MOOV MONEY fête ses 8 ans! Recevez 2000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22668806866.,1,fake_promotion
+Transaction recue: +100000 FCFA de Bintou (+22673543234). Solde actuel: 121947 FCFA.,0,legitimate
+Orange Money: Votre virement vers Adama du 23/05/2026 a ete confirme par le beneficiaire.,0,legitimate
+ORANGE MONEY: Transfert reçu de 10000 FCFA. Expediteur: Oumarou. Solde: 54561 FCFA. Ref: BF229934440.,0,legitimate
+MOOV MONEY - Consultation solde: 29385 FCFA disponibles sur votre compte.,0,legitimate
+Retrait de 1000 FCFA effectue. Solde: 8783 FCFA. Agent: Fatima. Ref: BF995348812.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22678928028 pour confirmer votre identité.,1,fake_operator
+Orange Money: Solde 17647 FCFA. Pour toute operation composez le *144#.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22667933456 pour renouveler votre accès.,1,fake_operator
+"Excusez-moi, j'ai fait une erreur de transfert de 5000 FCFA sur votre compte. Merci de retourner l'argent au +22665828531.",1,error_transfer
+Transaction marchande: -5000 FCFA (BOUTIQUE Wend-Yam). Solde restant: 9787 FCFA.,0,legitimate
+Transaction recue: +10000 FCFA de Seydou (+22666990472). Solde actuel: 36224 FCFA.,0,legitimate
+"Bonjour, j'ai envoyé 10000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22662968485. Merci.",1,error_transfer
+ORANGE MONEY: Retrait de 200000 FCFA confirme. Nouveau solde: 33700 FCFA. Ref: BF118481810.,0,legitimate
+"[ORANGE BURKINA] Pour recevoir votre bonus de 1000 FCFA, communiquez votre code PIN au +22675832411.",1,pin_request
+"Bonjour, appelez-moi au +22665142027 pour une information importante vous concernant.",1,ambiguous_fraud
+Credit de 5000 FCFA effectue. Solde Orange Money: 10737 FCFA. Ref: BF623279634.,0,legitimate
+Information importante: votre numero +22677593808 a ete enregistre. Confirmez.,1,ambiguous_fraud
+Votre demande a ete traitee. Contactez le +22662755993 pour confirmation.,1,ambiguous_fraud
+Investissement garanti! Envoyez 500 FCFA au +22662627786 et recevez 5000 FCFA dans les 2 heures.,1,fake_promotion
+ORANGE MONEY: Transfert reçu de 25000 FCFA. Expediteur: Aminata. Solde: 26517 FCFA. Ref: BF300909460.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22663764316 immédiatement pour bloquer.,1,fake_operator
+Transaction recue: +200000 FCFA de Mariam (+22667679150). Solde actuel: 211473 FCFA.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 1000 FCFA au +22675995706 et recevez 50000 FCFA sur votre compte.,1,fake_promotion
+"[ORANGE BURKINA] Pour recevoir votre bonus de 50000 FCFA, communiquez votre code PIN au +22667883826.",1,pin_request
+Orange Money: Solde 158734 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 2000 FCFA au +22668942216 et recevez 1000 FCFA sur votre compte.,1,fake_promotion
+Orange Money: Solde 186663 FCFA. Pour toute operation composez le *144#.,0,legitimate
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22675676680.",1,pin_request
+Investissement garanti! Envoyez 2000 FCFA au +22670874368 et recevez 2000 FCFA dans les 2 heures.,1,fake_promotion
+"Désolé, mauvaise manipulation. 50000 FCFA envoyés par erreur. Merci de renvoyer au +22677420012. C'est urgent.",1,error_transfer
+Paiement de 500 FCFA effectue chez QUINCAILLERIE du Centre. Solde: 8885 FCFA. Ref: BF267244216.,0,legitimate
+Vous avez gagné un prix de 5000 FCFA. Envoyez 2000 FCFA pour les frais d'activation au +22666725780.,1,lottery_scam
+Vérification requise. Envoyez votre code PIN Mobile Money au +22666520018 pour continuer.,1,pin_request
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22677754911.,1,pin_request
+Retrait de 25000 FCFA effectue. Solde: 22460 FCFA. Agent: Mariam. Ref: BF714381587.,0,legitimate
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22670699780.,1,pin_request
+PROMO ORANGE: Les 100 premiers clients reçoivent 25000 FCFA gratuit! Envoyez 2000 FCFA d'inscription au +22679596931.,1,fake_promotion
+VERIFICATION MOOV: Envoyez votre code secret au +22668206663 pour débloquer le transfert international.,1,pin_request
+Notification: une action est requise sur votre compte. Details au +22667492906.,1,ambiguous_fraud
+Credit de 500 FCFA effectue. Solde Orange Money: 3533 FCFA. Ref: BF341142023.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 500 FCFA sur votre compte. Merci de retourner l'argent au +22663573066.",1,error_transfer
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22673447412 immédiatement pour bloquer.,1,fake_operator
+"Excusez-moi, j'ai fait une erreur de transfert de 25000 FCFA sur votre compte. Merci de retourner l'argent au +22660568325.",1,error_transfer
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22660313487 d'urgence.,1,fake_operator
+Credit de 5000 FCFA effectue. Solde Orange Money: 23694 FCFA. Ref: BF268554291.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 6960 FCFA.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 500 FCFA au +22668862886 et gagnez 50000 FCFA immédiatement!,1,fake_promotion
+MOOV MONEY: Vous avez retire 10000 FCFA. Solde disponible: 35546 FCFA.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22672340068 pour débloquer le transfert international.,1,pin_request
+Transaction recue: +500 FCFA de Drissa (+22665925026). Solde actuel: 30799 FCFA.,0,legitimate
+ORANGE MONEY: Achat de 100000 FCFA chez BOUTIQUE Wend-Yam confirme. Nouveau solde: 20181 FCFA.,0,legitimate
+Vous avez reçu 2000 FCFA de Salimata. Nouveau solde: 10015 FCFA. Ref: BF179902102. Le 06/06/2026 a 09:09.,0,legitimate
+MOOV MONEY: Envoi de 100000 FCFA a Fatima confirme. Solde: 9068 FCFA. Ref: BF579761146.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22678161437 pour confirmer votre identité.,1,fake_operator
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 500 FCFA au +22672520304 et recevez 5000 FCFA sur votre compte.,1,fake_promotion
+MOOV MONEY fête ses 10 ans! Recevez 5000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22661426775.,1,fake_promotion
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22664731894 et gagnez 2000 FCFA immédiatement!,1,fake_promotion
+ORANGE MONEY: Retrait de 10000 FCFA confirme. Nouveau solde: 45123 FCFA. Ref: BF527568870.,0,legitimate
+Votre dossier est en attente. Appelez le +22678714015 pour finaliser.,1,ambiguous_fraud
+"Cher client, votre numéro figure parmi les 10 gagnants du jour. Prix: 2000 FCFA. Appelez +22674626725.",1,lottery_scam
+"Cher client, votre numéro figure parmi les 4 gagnants du jour. Prix: 50000 FCFA. Appelez +22679902448.",1,lottery_scam
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22678885342 pour sécuriser votre argent.,1,fake_operator
+MOOV MONEY: Votre compte a ete rechargé de 1000 FCFA. Solde: 13065 FCFA.,0,legitimate
+ORANGE MONEY: Achat de 10000 FCFA chez SUPERMARCHE Score confirme. Nouveau solde: 41381 FCFA.,0,legitimate
+ORANGE MONEY: Achat de 1000 FCFA chez STATION Shell confirme. Nouveau solde: 47828 FCFA.,0,legitimate
+Vous avez reçu 500 FCFA de Moussa. Nouveau solde: 25717 FCFA. Ref: BF758118367. Le 23/03/2026 a 10:55.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22668344068 pour débloquer le transfert international.,1,pin_request
+ORANGE MONEY: Achat de 100000 FCFA chez SUPERMARCHE Score confirme. Nouveau solde: 31635 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 10000 FCFA de Ibrahim. Votre solde est maintenant de 27871 FCFA. ID: BF644320464.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22669579318 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22667936866 pour continuer.,1,pin_request
+Transaction recue: +5000 FCFA de Fatima (+22678391469). Solde actuel: 51766 FCFA.,0,legitimate
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 9445 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Orange Money: Solde 132176 FCFA. Pour toute operation composez le *144#.,0,legitimate
+"[PROMOTION] Votre numéro a remporté 500 FCFA! Pour recevoir, envoyez 1000 FCFA de frais au +22671416115.",1,lottery_scam
+MOOV MONEY - Consultation solde: 142154 FCFA disponibles sur votre compte.,0,legitimate
+Credit de 2000 FCFA effectue. Solde Orange Money: 20142 FCFA. Ref: BF848619208.,0,legitimate
+Transaction marchande: -500 FCFA (PHARMACIE du Peuple). Solde restant: 47831 FCFA.,0,legitimate
+Orange Money: Solde 34248 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Orange Money: Solde 23858 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Vous avez reçu 50000 FCFA de Issaka. Nouveau solde: 95434 FCFA. Ref: BF132102862. Le 02/08/2026 a 14:53.,0,legitimate
+ORANGE MONEY: Transfert reçu de 10000 FCFA. Expediteur: Ibrahim. Solde: 50395 FCFA. Ref: BF313806776.,0,legitimate
+"Cher client, votre situation necessite une verification. Appelez +22663725380.",1,ambiguous_fraud
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 19845 FCFA.,0,legitimate
+Paiement de 25000 FCFA effectue chez STATION Shell. Solde: 49631 FCFA. Ref: BF545740154.,0,legitimate
+MOOV MONEY - Consultation solde: 97435 FCFA disponibles sur votre compte.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 50000 FCFA sur votre compte. Merci de retourner l'argent au +22662104895.",1,error_transfer
+Vérification requise. Envoyez votre code PIN Mobile Money au +22663409834 pour continuer.,1,pin_request
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22673813341 pour sécuriser votre argent.,1,fake_operator
+"Un agent vous contactera bientot. Pour accelerer, appelez le +22665417508.",1,ambiguous_fraud
+MOOV MONEY: Envoi de 5000 FCFA a Drissa confirme. Solde: 40820 FCFA. Ref: BF406426300.,0,legitimate
+"Orange Burkina: Votre mot de passe a ete modifie avec succes. Si ce n'est pas vous, appelez le 14 44.",0,legitimate
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 10000 FCFA. Solde: 19627 FCFA.,0,legitimate
+ORANGE MONEY: Retrait de 50000 FCFA confirme. Nouveau solde: 26124 FCFA. Ref: BF366903551.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22675100569 pour le débloquer.,1,fake_operator
+Retrait de 200000 FCFA effectue. Solde: 36650 FCFA. Agent: Awa. Ref: BF952867794.,0,legitimate
+MOOV MONEY - Consultation solde: 80452 FCFA disponibles sur votre compte.,0,legitimate
+"Cher client, une erreur de transfert de 25000 FCFA a été effectuée vers votre numéro. Renvoyez au +22674438947 SVP.",1,error_transfer
+Transfert de 1000 FCFA a Fatoumata (+22675819602) effectue. Solde: 19208 FCFA. Ref: BF429796342.,0,legitimate
+Recharge de 10000 FCFA creditee sur votre compte. Nouveau solde: 23065 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"Monsieur/Madame, j'ai accidentellement envoyé 10000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22679742917.",1,error_transfer
+Retrait de 5000 FCFA effectue. Solde: 7929 FCFA. Agent: Marcelline. Ref: BF257460250.,0,legitimate
+Orange Money: Solde 66246 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Investissement garanti! Envoyez 500 FCFA au +22672483102 et recevez 5000 FCFA dans les 2 heures.,1,fake_promotion
+Votre transfert de 1000 FCFA a +22661454584 a ete effectue avec succes. Solde restant: 35260 FCFA.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 2000 FCFA sur votre compte. Merci de retourner l'argent au +22672831952.",1,error_transfer
+Notification: une action est requise sur votre compte. Details au +22673339030.,1,ambiguous_fraud
+Félicitations! Vous avez été sélectionné(e) et avez gagné 50000 FCFA. Appelez le +22668327999 pour réclamer votre prix.,1,lottery_scam
+Transaction marchande: -10000 FCFA (SUPERMARCHE Score). Solde restant: 39456 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 100000 FCFA de Moussa. Votre solde est maintenant de 115710 FCFA. ID: BF757366769.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22678286572 pour sécuriser votre argent.,1,fake_operator
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22665938672.,1,pin_request
+Recharge de 10000 FCFA creditee sur votre compte. Nouveau solde: 24336 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Vous avez reçu 200000 FCFA de Moussa. Nouveau solde: 225476 FCFA. Ref: BF707431423. Le 14/01/2026 a 16:55.,0,legitimate
+Solde disponible: 189375 FCFA. Derniere operation le 14/11/2026. Composez *144# pour plus d'options.,0,legitimate
+Offre spéciale! Doublez votre solde. Envoyez 1000 FCFA au +22672621199 et recevez 1000 FCFA sur votre compte.,1,fake_promotion
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22679904829 d'urgence.,1,fake_operator
+Information importante: votre numero +22672176806 a ete enregistre. Confirmez.,1,ambiguous_fraud
+Vous etes eligible a une offre speciale. Renseignements au +22660904291.,1,ambiguous_fraud
+Transaction recue: +10000 FCFA de Fatima (+22669387592). Solde actuel: 55734 FCFA.,0,legitimate
+Orange Money: Solde 84469 FCFA. Pour toute operation composez le *144#.,0,legitimate
+"Cher client, votre numéro figure parmi les 5 gagnants du jour. Prix: 25000 FCFA. Appelez +22665325217.",1,lottery_scam
+Vérification requise. Envoyez votre code PIN Mobile Money au +22674426806 pour continuer.,1,pin_request
+Credit de 5000 FCFA effectue. Solde Orange Money: 17824 FCFA. Ref: BF176093527.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 500 FCFA. Solde: 4395 FCFA.,0,legitimate
+IMPORTANT: Votre compte ORANGE MONEY expire aujourd'hui. Appelez le +22675627743 pour renouveler votre accès.,1,fake_operator
+Vérification requise. Envoyez votre code PIN Mobile Money au +22660589554 pour continuer.,1,pin_request
+Un virement en attente de validation. Confirmez en appelant le +22672456765.,1,ambiguous_fraud
+Orange Money: Solde 142704 FCFA. Pour toute operation composez le *144#.,0,legitimate
+PROMO ORANGE: Les 53 premiers clients reçoivent 2000 FCFA gratuit! Envoyez 500 FCFA d'inscription au +22665868020.,1,fake_promotion
+Transaction recue: +200000 FCFA de Hamidou (+22664266786). Solde actuel: 228286 FCFA.,0,legitimate
+ALERTE ORANGE: Votre compte Mobile Money sera désactivé. Contactez le service client au +22665920231 d'urgence.,1,fake_operator
+"Bonjour, appelez-moi au +22670816137 pour une information importante vous concernant.",1,ambiguous_fraud
+Service client: un remboursement de 200000 FCFA vous attend. Contactez +22676720529.,1,ambiguous_fraud
+Vous avez gagné un prix de 500 FCFA. Envoyez 500 FCFA pour les frais d'activation au +22673731024.,1,lottery_scam
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+MOOV MONEY - Consultation solde: 25918 FCFA disponibles sur votre compte.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 50000 FCFA. Appelez le +22662264663 MAINTENANT.,1,lottery_scam
+"Cher client, une erreur de transfert de 200000 FCFA a été effectuée vers votre numéro. Renvoyez au +22673970840 SVP.",1,error_transfer
+Offre spéciale! Doublez votre solde. Envoyez 1000 FCFA au +22679251030 et recevez 25000 FCFA sur votre compte.,1,fake_promotion
+MOOV MONEY fête ses 13 ans! Recevez 5000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22668729502.,1,fake_promotion
+"Cher client, votre numéro figure parmi les 7 gagnants du jour. Prix: 1000 FCFA. Appelez +22672505116.",1,lottery_scam
+Retrait de 10000 FCFA effectue. Solde: 14492 FCFA. Agent: Issaka. Ref: BF251753535.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+ORANGE MONEY: Achat de 5000 FCFA chez SUPERMARCHE Score confirme. Nouveau solde: 37921 FCFA.,0,legitimate
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 3272 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+ORANGE MONEY: Transfert reçu de 10000 FCFA. Expediteur: Marcelline. Solde: 20270 FCFA. Ref: BF258367270.,0,legitimate
+"Bonsoir, je me suis trompé de numéro en envoyant 50000 FCFA. Pouvez-vous me renvoyer cet argent au +22665529008? Urgent.",1,error_transfer
+Vous avez gagné un prix de 10000 FCFA. Envoyez 2000 FCFA pour les frais d'activation au +22665147899.,1,lottery_scam
+Orange Money: Solde 151404 FCFA. Pour toute operation composez le *144#.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 1000 FCFA au +22676889216 et gagnez 200000 FCFA immédiatement!,1,fake_promotion
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+Transaction marchande: -50000 FCFA (TOTAL Ouagadougou). Solde restant: 20547 FCFA.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+MOOV MONEY: Vous avez recu 5000 FCFA de Souleymane. Votre solde est maintenant de 16609 FCFA. ID: BF330678603.,0,legitimate
+Solde disponible: 87147 FCFA. Derniere operation le 05/09/2026. Composez *144# pour plus d'options.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 24068 FCFA.,0,legitimate
+MOOV MONEY - Consultation solde: 158033 FCFA disponibles sur votre compte.,0,legitimate
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+Transfert de 2000 FCFA a Salimata (+22676195775) effectue. Solde: 1175 FCFA. Ref: BF962594605.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22660260119 pour confirmer votre identité.,1,fake_operator
+"Bonsoir, je me suis trompé de numéro en envoyant 5000 FCFA. Pouvez-vous me renvoyer cet argent au +22677406019? Urgent.",1,error_transfer
+Paiement de 10000 FCFA effectue chez RESTAURANT La Terrasse. Solde: 19158 FCFA. Ref: BF216492455.,0,legitimate
+Votre solde Orange Money est de 111989 FCFA au 19/07/2026 a 14:00.,0,legitimate
+MOOV MONEY - Consultation solde: 23677 FCFA disponibles sur votre compte.,0,legitimate
+Notification: une action est requise sur votre compte. Details au +22660733727.,1,ambiguous_fraud
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 18689 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Moov Burkina vous informe que vous avez gagné 200000 FCFA lors de notre loterie. Appelez le +22668902719 pour réclamer.,1,lottery_scam
+Votre solde Orange Money est de 123282 FCFA au 12/07/2026 a 15:26.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22664933790 pour continuer.,1,pin_request
+ORANGE MONEY: Transfert reçu de 25000 FCFA. Expediteur: Aminata. Solde: 66499 FCFA. Ref: BF446667253.,0,legitimate
+Retrait de 100000 FCFA effectue. Solde: 2290 FCFA. Agent: Issaka. Ref: BF141523282.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 500 FCFA sur votre compte. Merci de retourner l'argent au +22665576728.",1,error_transfer
+Information importante: votre numero +22660982495 a ete enregistre. Confirmez.,1,ambiguous_fraud
+ORANGE MONEY: Retrait de 25000 FCFA confirme. Nouveau solde: 34517 FCFA. Ref: BF939617000.,0,legitimate
+[MOOV MONEY] Activité suspecte détectée sur votre compte. Composez le +22667458955 pour sécuriser votre argent.,1,fake_operator
+MOOV MONEY: Vous avez retire 200000 FCFA. Solde disponible: 37727 FCFA.,0,legitimate
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22663693418 immédiatement pour bloquer.,1,fake_operator
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 13028 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+"Désolé, mauvaise manipulation. 500 FCFA envoyés par erreur. Merci de renvoyer au +22679250219. C'est urgent.",1,error_transfer
+Transfert de 500 FCFA a Wendpanga (+22668370361) effectue. Solde: 23093 FCFA. Ref: BF312185392.,0,legitimate
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22668760434 pour le débloquer.,1,fake_operator
+MOOV MONEY: Vous avez retire 2000 FCFA. Solde disponible: 37700 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 500 FCFA. Solde: 11535 FCFA.,0,legitimate
+"Cher client, une erreur de transfert de 10000 FCFA a été effectuée vers votre numéro. Renvoyez au +22663927659 SVP.",1,error_transfer
+Moov Burkina vous informe que vous avez gagné 5000 FCFA lors de notre loterie. Appelez le +22678296243 pour réclamer.,1,lottery_scam
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 2000 FCFA. Solde: 6030 FCFA.,0,legitimate
+Votre transfert de 50000 FCFA a +22662328909 a ete effectue avec succes. Solde restant: 36231 FCFA.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 20688 FCFA.,0,legitimate
+ORANGE MONEY: Transfert reçu de 25000 FCFA. Expediteur: Souleymane. Solde: 56556 FCFA. Ref: BF194663182.,0,legitimate
+ORANGE MONEY: Retrait de 10000 FCFA confirme. Nouveau solde: 17909 FCFA. Ref: BF648552823.,0,legitimate
+Vous etes eligible a une offre speciale. Renseignements au +22675670123.,1,ambiguous_fraud
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+MOOV MONEY: Votre compte a ete rechargé de 10000 FCFA. Solde: 22202 FCFA.,0,legitimate
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 7671 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+ORANGE MONEY: Retrait de 2000 FCFA confirme. Nouveau solde: 33563 FCFA. Ref: BF334918423.,0,legitimate
+"Cher client, votre numéro figure parmi les 3 gagnants du jour. Prix: 5000 FCFA. Appelez +22674130401.",1,lottery_scam
+Notification: une action est requise sur votre compte. Details au +22670789606.,1,ambiguous_fraud
+Orange Money: Votre virement vers Issaka du 05/07/2026 a ete confirme par le beneficiaire.,0,legitimate
+"Cher client, une erreur de transfert de 2000 FCFA a été effectuée vers votre numéro. Renvoyez au +22676216041 SVP.",1,error_transfer
+[SECURITY] Tentative d'accès non autorisé sur votre compte. Appelez le +22674498676 immédiatement pour bloquer.,1,fake_operator
+Retrait de 5000 FCFA effectue. Solde: 29664 FCFA. Agent: Awa. Ref: BF540154492.,0,legitimate
+Transaction recue: +200000 FCFA de Marcelline (+22660612942). Solde actuel: 207803 FCFA.,0,legitimate
+"Orange Money: Votre compte est actif. Pour toute assistance, appelez le 14 44 (gratuit).",0,legitimate
+"[PROMOTION] Votre numéro a remporté 200000 FCFA! Pour recevoir, envoyez 2000 FCFA de frais au +22667427420.",1,lottery_scam
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22679491133 pour confirmer votre identité.,1,fake_operator
+MOOV MONEY: Votre compte a ete rechargé de 5000 FCFA. Solde: 19788 FCFA.,0,legitimate
+Orange Money: Solde 69473 FCFA. Pour toute operation composez le *144#.,0,legitimate
+ORANGE MONEY: 50000 FCFA envoyes a Moussa. Frais: 500 FCFA. Nouveau solde: 7222 FCFA.,0,legitimate
+MOOV MONEY: Vous avez recu 500 FCFA de Rasmata. Votre solde est maintenant de 21338 FCFA. ID: BF962371481.,0,legitimate
+"Désolé, mauvaise manipulation. 200000 FCFA envoyés par erreur. Merci de renvoyer au +22672432731. C'est urgent.",1,error_transfer
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22663426711 pour confirmer votre identité.,1,fake_operator
+Orange Money: Solde 13322 FCFA. Pour toute operation composez le *144#.,0,legitimate
+MOOV MONEY fête ses 19 ans! Recevez 50000 FCFA. Frais d'activation: 1000 FCFA à envoyer au +22679858414.,1,fake_promotion
+ORANGE MONEY: Achat de 5000 FCFA chez LIBRAIRIE Jeunesse confirme. Nouveau solde: 9581 FCFA.,0,legitimate
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+JACKPOT MOBILE: Envoyez seulement 2000 FCFA au +22674105433 et gagnez 5000 FCFA immédiatement!,1,fake_promotion
+"Excusez-moi, j'ai fait une erreur de transfert de 2000 FCFA sur votre compte. Merci de retourner l'argent au +22665476224.",1,error_transfer
+MOOV MONEY: Vous avez retire 50000 FCFA. Solde disponible: 5857 FCFA.,0,legitimate
+"Bonjour, j'ai envoyé 25000 FCFA sur votre numéro par erreur. Merci de me rembourser au +22663409698. Merci.",1,error_transfer
+Message urgent de votre operateur. Rappel au +22675494956 necessaire.,1,ambiguous_fraud
+"Bonjour, votre demande de service est approuvee. Contactez le +22673769737.",1,ambiguous_fraud
+Solde disponible: 123268 FCFA. Derniere operation le 07/11/2026. Composez *144# pour plus d'options.,0,legitimate
+Credit de 2000 FCFA effectue. Solde Orange Money: 6836 FCFA. Ref: BF471771396.,0,legitimate
+Votre transfert de 50000 FCFA a +22679328860 a ete effectue avec succes. Solde restant: 42634 FCFA.,0,legitimate
+ORANGE MONEY: 1000 FCFA envoyes a Adama. Frais: 10 FCFA. Nouveau solde: 43626 FCFA.,0,legitimate
+Rappel: Securisez votre compte Orange Money. Ne communiquez jamais votre PIN a personne.,0,legitimate
+Service client: un remboursement de 25000 FCFA vous attend. Contactez +22670909000.,1,ambiguous_fraud
+Investissement garanti! Envoyez 1000 FCFA au +22664742039 et recevez 25000 FCFA dans les 2 heures.,1,fake_promotion
+"Cher client, une erreur de transfert de 500 FCFA a été effectuée vers votre numéro. Renvoyez au +22663656921 SVP.",1,error_transfer
+Transaction recue: +2000 FCFA de Awa (+22670426279). Solde actuel: 32058 FCFA.,0,legitimate
+Orange Burkina: Profitez de notre offre speciale data. Composez le *144# pour en savoir plus.,0,legitimate
+Orange Money: Votre virement vers Wendpanga du 16/10/2026 a ete confirme par le beneficiaire.,0,legitimate
+ORANGE MONEY: Transfert reçu de 5000 FCFA. Expediteur: Wendpanga. Solde: 35834 FCFA. Ref: BF704764304.,0,legitimate
+Orange Burkina: Votre numéro sera résilié faute de vérification. Appelez le +22665597549 pour confirmer votre identité.,1,fake_operator
+"Monsieur/Madame, j'ai accidentellement envoyé 100000 FCFA sur votre numéro. Je vous en supplie de me rembourser au +22660555342.",1,error_transfer
+Credit de 500 FCFA effectue. Solde Orange Money: 9084 FCFA. Ref: BF430478745.,0,legitimate
+"Cher client, une erreur de transfert de 50000 FCFA a été effectuée vers votre numéro. Renvoyez au +22667778540 SVP.",1,error_transfer
+"[PROMOTION] Votre numéro a remporté 500 FCFA! Pour recevoir, envoyez 1000 FCFA de frais au +22676188860.",1,lottery_scam
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 2000 FCFA. Appelez le +22677292800 MAINTENANT.,1,lottery_scam
+Vous avez gagné un prix de 500 FCFA. Envoyez 500 FCFA pour les frais d'activation au +22662732275.,1,lottery_scam
+"Agent Orange Money ici. Pour traiter votre demande, nous avons besoin de votre PIN. Envoyez-le au +22664751332.",1,pin_request
+Retrait de 200000 FCFA effectue. Solde: 33468 FCFA. Agent: Aissata. Ref: BF772078335.,0,legitimate
+Recharge de 2000 FCFA creditee sur votre compte. Nouveau solde: 21317 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+TIRAGE ORANGE BURKINA: Numéro gagnant. Votre récompense: 10000 FCFA. Appelez le +22679693246 MAINTENANT.,1,lottery_scam
+Votre solde Orange Money est de 49801 FCFA au 08/12/2026 a 15:51.,0,legitimate
+MOOV MONEY: Nouveau service disponible! Payez vos factures SONABEL et ONEA via *555#.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 10000 FCFA. Appelez maintenant le +22672458411.,1,lottery_scam
+"Désolé, mauvaise manipulation. 5000 FCFA envoyés par erreur. Merci de renvoyer au +22666519093. C'est urgent.",1,error_transfer
+Votre transfert de 2000 FCFA a +22663728357 a ete effectue avec succes. Solde restant: 49133 FCFA.,0,legitimate
+"Désolé, mauvaise manipulation. 2000 FCFA envoyés par erreur. Merci de renvoyer au +22668377511. C'est urgent.",1,error_transfer
+Recharge de 500 FCFA creditee sur votre compte. Nouveau solde: 18097 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+Vérification requise. Envoyez votre code PIN Mobile Money au +22673470858 pour continuer.,1,pin_request
+MOOV MONEY - Consultation solde: 45930 FCFA disponibles sur votre compte.,0,legitimate
+VERIFICATION MOOV: Envoyez votre code secret au +22674623059 pour débloquer le transfert international.,1,pin_request
+"[ORANGE BURKINA] Pour recevoir votre bonus de 25000 FCFA, communiquez votre code PIN au +22671782524.",1,pin_request
+VERIFICATION MOOV: Envoyez votre code secret au +22673604906 pour débloquer le transfert international.,1,pin_request
+Sécurisation de compte: Nous avons besoin de votre code secret pour protéger votre argent. Envoyez au +22667111091.,1,pin_request
+Vérification requise. Envoyez votre code PIN Mobile Money au +22673897097 pour continuer.,1,pin_request
+ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez immédiatement le +22669427626 pour le débloquer.,1,fake_operator
+MOOV MONEY: Vous avez retire 500 FCFA. Solde disponible: 13469 FCFA.,0,legitimate
+"Excusez-moi, j'ai fait une erreur de transfert de 2000 FCFA sur votre compte. Merci de retourner l'argent au +22672191254.",1,error_transfer
+ORANGE MONEY: Transfert reçu de 25000 FCFA. Expediteur: Bintou. Solde: 53617 FCFA. Ref: BF976991925.,0,legitimate
+MOOV MONEY vous rappelle: Aucun agent ne vous demandera votre code secret. Signalez toute fraude au 14 45.,0,legitimate
+Bonne nouvelle! Votre numéro a été tiré au sort. Prix: 100000 FCFA. Appelez maintenant le +22665575779.,1,lottery_scam
+Recharge de 1000 FCFA creditee sur votre compte. Nouveau solde: 6489 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+MOOV MONEY: Mise à jour obligatoire de votre compte. Contactez le +22678401769 avant minuit pour éviter la suspension.,1,fake_operator
+Paiement de 500 FCFA effectue chez LIBRAIRIE Jeunesse. Solde: 44048 FCFA. Ref: BF547083251.,0,legitimate
+"Désolé, mauvaise manipulation. 10000 FCFA envoyés par erreur. Merci de renvoyer au +22673150051. C'est urgent.",1,error_transfer
+Recharge de 5000 FCFA creditee sur votre compte. Nouveau solde: 24218 FCFA. Merci d'utiliser Orange Money.,0,legitimate
+MOOV MONEY: Vous avez recu 5000 FCFA de Aissata. Votre solde est maintenant de 36680 FCFA. ID: BF860759357.,0,legitimate
+Orange Money: Solde 2165 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Orange Money: Solde 3740 FCFA. Pour toute operation composez le *144#.,0,legitimate
+Credit de 10000 FCFA effectue. Solde Orange Money: 12927 FCFA. Ref: BF858931242.,0,legitimate
