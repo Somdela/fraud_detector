@@ -1,17 +1,38 @@
 """
 Script de test manuel de l'API SMS Fraud Detector.
-Lance le serveur d'abord : python -m uvicorn api.main:app --port 8000
+
+Usage :
+  1. Lance le serveur : python -m uvicorn api.main:app --port 8000
+  2. Lance les tests  : python test_api.py
 """
 import sys
+import os
 import urllib.request
-import urllib.error
 import json
 
-# Force UTF-8 sur les terminaux Windows
 if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8")
 
 API_URL = "http://localhost:8000"
+
+
+def _load_api_key() -> str:
+    """Lit la première clé API depuis le fichier .env local."""
+    env_path = os.path.join(os.path.dirname(__file__), ".env")
+    if os.path.exists(env_path):
+        for line in open(env_path, encoding="utf-8"):
+            line = line.strip()
+            if line.startswith("API_KEYS="):
+                first_key = line.split("=", 1)[1].split(",")[0].strip()
+                if first_key:
+                    return first_key
+    raise RuntimeError(
+        "Aucune cle API trouvee dans .env\n"
+        "Lance d'abord : python generate_keys.py"
+    )
+
+
+API_KEY = _load_api_key()
 
 
 def analyze(sms: str, sender: str = None, recipient: str = None) -> dict:
@@ -25,7 +46,10 @@ def analyze(sms: str, sender: str = None, recipient: str = None) -> dict:
     req = urllib.request.Request(
         f"{API_URL}/analyze",
         data=data,
-        headers={"Content-Type": "application/json"},
+        headers={
+            "Content-Type": "application/json",
+            "X-API-Key": API_KEY,
+        },
         method="POST",
     )
     with urllib.request.urlopen(req) as resp:
@@ -33,13 +57,13 @@ def analyze(sms: str, sender: str = None, recipient: str = None) -> dict:
 
 
 def afficher(label: str, result: dict):
-    verdict = result["verdict"].upper()
     icons = {
         "FRAUD":          "[BLOQUE]",
         "PROBABLE_FRAUD": "[PROBABLE FRAUDE]",
         "UNCERTAIN":      "[INCERTAIN]",
         "LEGITIMATE":     "[LIVRE]",
     }
+    verdict = result["verdict"].upper()
     print(f"\n{'-'*55}")
     print(f"  {label}")
     print(f"{'-'*55}")
@@ -56,89 +80,42 @@ def afficher(label: str, result: dict):
 if __name__ == "__main__":
     print("=" * 55)
     print("  TEST API - SMS FRAUD DETECTOR BURKINA FASO")
+    print(f"  Cle utilisee : {API_KEY[:12]}...")
     print("=" * 55)
 
-    # 1. Arnaque loterie évidente
-    afficher(
-        "1. Arnaque loterie",
-        analyze(
-            "Felicitations! Vous avez gagne 50000 FCFA. "
-            "Appelez le +22670123456 pour reclamer votre prix.",
-            sender="+22670123456",
-            recipient="+22671000001",
-        ),
-    )
+    afficher("1. Arnaque loterie",
+        analyze("Felicitations! Vous avez gagne 50000 FCFA. Appelez +22670123456.",
+                sender="+22670000001", recipient="+22671000001"))
 
-    # 2. Fausse urgence opérateur
-    afficher(
-        "2. Faux opérateur (urgence suspension)",
-        analyze(
-            "ORANGE MONEY: Votre compte sera suspendu dans 24h. "
-            "Appelez immediatement le +22671999999.",
-            sender="+22671999999",
-            recipient="+22672000001",
-        ),
-    )
+    afficher("2. Faux operateur (urgence suspension)",
+        analyze("ORANGE MONEY: Votre compte sera suspendu dans 24h. Appelez +22671999999.",
+                sender="+22671999999", recipient="+22672000001"))
 
-    # 3. Arnaque erreur de transfert
-    afficher(
-        "3. Erreur de transfert (arnaque classique)",
-        analyze(
-            "Bonjour, j'ai envoye 10000 FCFA sur votre numero par erreur. "
-            "Merci de me rembourser au +22673111111.",
-            sender="+22673111111",
-            recipient="+22674000001",
-        ),
-    )
+    afficher("3. Erreur de transfert (arnaque classique)",
+        analyze("Bonjour, j'ai envoye 10000 FCFA sur votre numero par erreur. Remboursez au +22673111111.",
+                sender="+22673111111", recipient="+22674000001"))
 
-    # 4. Transfert légitime
-    afficher(
-        "4. Transfert légitime Orange Money",
-        analyze(
-            "Vous avez recu 15000 FCFA de Fatima. "
-            "Nouveau solde: 32500 FCFA. Ref: BF987654321.",
-            sender="ORANGE",
-            recipient="+22675000001",
-        ),
-    )
+    afficher("4. Transfert legitime Orange Money",
+        analyze("Vous avez recu 15000 FCFA de Fatima. Nouveau solde: 32500 FCFA. Ref: BF987654321.",
+                sender="ORANGE", recipient="+22675000001"))
 
-    # 5. Notification légitime
-    afficher(
-        "5. Notification système légitime",
-        analyze(
-            "Retrait de 5000 FCFA effectue. Solde: 8200 FCFA. "
-            "Agent: Moussa. Ref: BF112233445.",
-            sender="MOOV",
-            recipient="+22676000001",
-        ),
-    )
+    afficher("5. Notification systeme legitime",
+        analyze("Retrait de 5000 FCFA effectue. Solde: 8200 FCFA. Agent: Moussa. Ref: BF112233445.",
+                sender="MOOV", recipient="+22676000001"))
 
-    # 6. SMS personnel neutre entre inconnus → probable_fraud (couche comportementale)
-    afficher(
-        "6. SMS neutre — numéros JAMAIS en contact → couche comportementale",
-        analyze(
-            "Salut, ca va? Je suis arrive a Bobo. On se voit demain?",
-            sender="+22677000099",
-            recipient="+22678000088",
-        ),
-    )
+    afficher("6. SMS neutre - numeros JAMAIS en contact → couche comportementale",
+        analyze("Salut, ca va? Je suis arrive a Bobo. On se voit demain?",
+                sender="+22677000099", recipient="+22678000088"))
 
-    # 7. D'abord on enregistre une communication légitime entre deux numéros
-    analyze(
-        "Vous avez recu 3000 FCFA de Ibrahim. Solde: 9500 FCFA. Ref: BF555666777.",
-        sender="+22679111111",
-        recipient="+22679222222",
-    )
-    # Même SMS neutre mais entre numéros qui se connaissent → uncertain
-    afficher(
-        "7. SMS neutre — numéros QUI SE CONNAISSENT → vérification humaine",
-        analyze(
-            "Salut, ca va? Je suis arrive a Bobo. On se voit demain?",
-            sender="+22679111111",
-            recipient="+22679222222",
-        ),
-    )
+    # D'abord enregistrer une communication legitime entre deux numeros
+    analyze("Vous avez recu 3000 FCFA de Ibrahim. Solde: 9500 FCFA. Ref: BF555666777.",
+            sender="+22679111111", recipient="+22679222222")
+
+    afficher("7. SMS neutre - numeros QUI SE CONNAISSENT → verification humaine",
+        analyze("Salut, ca va? Je suis arrive a Bobo. On se voit demain?",
+                sender="+22679111111", recipient="+22679222222"))
 
     print(f"\n{'='*55}")
-    print("  Docs interactives : http://localhost:8000/docs")
+    print("  Dashboard : http://localhost:8000/dashboard?key=" + API_KEY[:12] + "...")
+    print("  Docs      : http://localhost:8000/docs")
     print(f"{'='*55}")

@@ -3,11 +3,9 @@ import time
 from contextlib import asynccontextmanager
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
-
-from fastapi import Depends
 
 from api.schemas import (
     SMSRequest, SMSResponse, HealthResponse,
@@ -58,12 +56,13 @@ app.add_middleware(
 
 @app.get("/", response_class=HTMLResponse, include_in_schema=False)
 def root():
+    # La page HTML est publique — les données (/stats) restent protégées par clé API.
     return HTMLResponse(content=DASHBOARD_HTML.read_text(encoding="utf-8"))
 
 
 @app.get("/dashboard", response_class=HTMLResponse, tags=["Dashboard"])
-def dashboard(api_key: str = Depends(require_api_key)):
-    """Tableau de bord de surveillance en temps réel (authentification requise)."""
+def dashboard():
+    """Tableau de bord — passer la clé via ?key=VOTRE_CLE pour charger les données."""
     return HTMLResponse(content=DASHBOARD_HTML.read_text(encoding="utf-8"))
 
 

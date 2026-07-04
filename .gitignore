@@ -1,5 +1,11 @@
 __pycache__/
 *.pyc
 *.pyo
+
+# Fichiers générés automatiquement (recréés par Dockerfile au déploiement)
+model/fraud_detector.pkl
+data/dataset.csv
 data/history.db
+
+# Secrets — ne jamais committer
 .env
